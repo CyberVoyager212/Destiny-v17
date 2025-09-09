@@ -1,0 +1,98 @@
+{
+  "707269247532793858": {
+    "team": [
+      "1757248843556415",
+      "1757248869006191",
+      "1757248869006191"
+    ],
+    "pool": {
+      "1757248843556415": {
+        "id": "1757248843556415",
+        "name": "Deniz Fare Şarkısı",
+        "level": 3,
+        "xp": 100,
+        "items": {}
+      },
+      "1757248863629525": {
+        "id": "1757248863629525",
+        "name": "İri Sincap Kölesi",
+        "level": 5,
+        "xp": 0,
+        "items": {}
+      },
+      "1757248867356428": {
+        "id": "1757248867356428",
+        "name": "Kutsal Tavşan Gözcüsü",
+        "level": 3,
+        "xp": 0,
+        "items": {}
+      },
+      "1757248869006191": {
+        "id": "1757248869006191",
+        "name": "Orman Tilki İzleri",
+        "level": 9,
+        "xp": 100,
+        "items": {}
+      },
+      "1757248870253627": {
+        "id": "1757248870253627",
+        "name": "Yeraltı Sincap Gölgesi",
+        "level": 5,
+        "xp": 50,
+        "items": {}
+      },
+      "1757248878907194": {
+        "id": "1757248878907194",
+        "name": "Sevimli Sincap Sonsuzu",
+        "level": 2,
+        "xp": 100,
+        "items": {}
+      }
+    },
+    "inventory": {
+      "diamonds": [
+        {
+          "id": "1757248870253d913"
+        },
+        {
+          "id": "1757248878907d814"
+        }
+      ],
+      "emeralds": [],
+      "hearts": []
+    },
+    "activeGems": {
+      "diamond": true,
+      "emerald": false,
+      "heart": true
+    },
+    "streak": 1,
+    "winTimestamps": [
+      1757249358765
+    ]
+  },
+  "833400410131529748": {
+    "team": [
+      "1757249100254756"
+    ],
+    "pool": {
+      "1757249100254756": {
+        "id": "1757249100254756",
+        "name": "Ateşli Tavşan Kalbi",
+        "level": 1,
+        "xp": 0,
+        "items": {}
+      }
+    },
+    "inventory": {
+      "diamonds": [],
+      "emeralds": [],
+      "hearts": []
+    },
+    "activeGems": {
+      "diamond": false,
+      "emerald": false,
+      "heart": false
+    }
+  }
+}

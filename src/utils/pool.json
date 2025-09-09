@@ -1,0 +1,1412 @@
+{
+    "PET_POOL": {
+      "common": [
+        {
+          "name": "Ayışığı Tavşan Damlacığı",
+          "baseLevel": 1
+        },
+        {
+          "name": "Uçan Tavşan Gücü",
+          "baseLevel": 1
+        },
+        {
+          "name": "Hızlı Tavşan Rüzgarı",
+          "baseLevel": 1
+        },
+        {
+          "name": "Süratli Tavşan Kökeni",
+          "baseLevel": 1
+        },
+        {
+          "name": "Kutsal Tavşan İzleri",
+          "baseLevel": 1
+        },
+        {
+          "name": "İri Tavşan Kalbi",
+          "baseLevel": 1
+        },
+        {
+          "name": "Tüylü Tavşan İzleri",
+          "baseLevel": 1
+        },
+        {
+          "name": "Kıvrak Tavşan Sığınağı",
+          "baseLevel": 1
+        },
+        {
+          "name": "Ateşli Tavşan Kalbi",
+          "baseLevel": 1
+        },
+        {
+          "name": "Sevimli Tavşan Nabzı",
+          "baseLevel": 1
+        },
+        {
+          "name": "Hızlı Tavşan Gölgesi",
+          "baseLevel": 2
+        },
+        {
+          "name": "Dev Tavşan Ayini",
+          "baseLevel": 2
+        },
+        {
+          "name": "Kıvrak Tavşan Koruk",
+          "baseLevel": 2
+        },
+        {
+          "name": "İri Tavşan Hiddeti",
+          "baseLevel": 2
+        },
+        {
+          "name": "Narin Tavşan Kuyruğu",
+          "baseLevel": 2
+        },
+        {
+          "name": "Ateşli Tavşan Damlacığı",
+          "baseLevel": 2
+        },
+        {
+          "name": "Sevimli Tavşan Kölesi",
+          "baseLevel": 2
+        },
+        {
+          "name": "Yırtıcı Tavşan Sığınağı",
+          "baseLevel": 2
+        },
+        {
+          "name": "Cinli Tavşan Koruyucusu",
+          "baseLevel": 2
+        },
+        {
+          "name": "Göksel Tavşan Sığınağı",
+          "baseLevel": 2
+        },
+        {
+          "name": "Dev Tavşan Sığınağı",
+          "baseLevel": 3
+        },
+        {
+          "name": "Uzun Tavşan Izdırabı",
+          "baseLevel": 3
+        },
+        {
+          "name": "Azgın Tavşan Köprüsü",
+          "baseLevel": 3
+        },
+        {
+          "name": "Demirli Tavşan Zamanı",
+          "baseLevel": 3
+        },
+        {
+          "name": "Çelik Tavşan Zirvesi",
+          "baseLevel": 3
+        },
+        {
+          "name": "Kadim Tavşan Koruyucusu",
+          "baseLevel": 3
+        },
+        {
+          "name": "İri Tavşan Zamanı",
+          "baseLevel": 3
+        },
+        {
+          "name": "Göksel Tavşan Köprüsü",
+          "baseLevel": 3
+        },
+        {
+          "name": "Kutsal Tavşan Gözcüsü",
+          "baseLevel": 3
+        },
+        {
+          "name": "Cinli Tavşan Büyüsü",
+          "baseLevel": 3
+        },
+        {
+          "name": "Narin Tavşan Gölgesi",
+          "baseLevel": 4
+        },
+        {
+          "name": "Uçan Tavşan İzleri",
+          "baseLevel": 4
+        },
+        {
+          "name": "Azgın Tavşan Gölgesi",
+          "baseLevel": 4
+        },
+        {
+          "name": "Zehirli Tavşan Büyüsü",
+          "baseLevel": 4
+        },
+        {
+          "name": "Derin Tavşan Yırtıcısı",
+          "baseLevel": 4
+        },
+        {
+          "name": "Süratli Tavşan Köprüsü",
+          "baseLevel": 4
+        },
+        {
+          "name": "Çöl Tavşan Sığınağı",
+          "baseLevel": 4
+        },
+        {
+          "name": "Kristalli Tavşan Nefesi",
+          "baseLevel": 4
+        },
+        {
+          "name": "Çöl Tavşan Gözcüsü",
+          "baseLevel": 4
+        },
+        {
+          "name": "Görkemli Tavşan Nabzı",
+          "baseLevel": 4
+        },
+        {
+          "name": "Yeraltı Tavşan Kükremesi",
+          "baseLevel": 5
+        },
+        {
+          "name": "Kristalli Tavşan Gücü",
+          "baseLevel": 5
+        },
+        {
+          "name": "Kutsal Tavşan Kuyruğu",
+          "baseLevel": 5
+        },
+        {
+          "name": "Orman Tavşan Rüzgarı",
+          "baseLevel": 5
+        },
+        {
+          "name": "Rüzgarlı Tavşan Dönencesi",
+          "baseLevel": 5
+        },
+        {
+          "name": "Yıldızlı Tavşan Rüzgarı",
+          "baseLevel": 5
+        },
+        {
+          "name": "Süratli Tavşan Mirası",
+          "baseLevel": 5
+        },
+        {
+          "name": "İri Tavşan Kükremesi",
+          "baseLevel": 5
+        },
+        {
+          "name": "Rüzgarlı Tavşan Izdırabı",
+          "baseLevel": 5
+        },
+        {
+          "name": "Göksel Tavşan Koruk",
+          "baseLevel": 5
+        },
+        {
+          "name": "Süratli Fare Denizatı",
+          "baseLevel": 1
+        },
+        {
+          "name": "Yeraltı Fare İntikamı",
+          "baseLevel": 1
+        },
+        {
+          "name": "Kutsal Fare Ateşi",
+          "baseLevel": 1
+        },
+        {
+          "name": "Sevimli Fare Çiçeği",
+          "baseLevel": 1
+        },
+        {
+          "name": "Cinli Fare Şarkısı",
+          "baseLevel": 1
+        },
+        {
+          "name": "Zehirli Fare Kökeni",
+          "baseLevel": 1
+        },
+        {
+          "name": "Cinli Fare Sığınağı",
+          "baseLevel": 1
+        },
+        {
+          "name": "Ayışığı Fare Gölgesi",
+          "baseLevel": 1
+        },
+        {
+          "name": "Tüylü Fare Buzulu",
+          "baseLevel": 1
+        },
+        {
+          "name": "Tüylü Fare İzci",
+          "baseLevel": 1
+        },
+        {
+          "name": "Sessiz Fare Büyüsü",
+          "baseLevel": 2
+        },
+        {
+          "name": "Soğuk Fare Hiddeti",
+          "baseLevel": 2
+        },
+        {
+          "name": "Ayışığı Fare İntikamı",
+          "baseLevel": 2
+        },
+        {
+          "name": "Demirli Fare Koruyucusu",
+          "baseLevel": 2
+        },
+        {
+          "name": "Göksel Fare Gölgesi",
+          "baseLevel": 2
+        },
+        {
+          "name": "Derin Fare Yolu",
+          "baseLevel": 2
+        },
+        {
+          "name": "Uzun Fare Yolu",
+          "baseLevel": 2
+        },
+        {
+          "name": "Deniz Fare Sonsuzu",
+          "baseLevel": 2
+        },
+        {
+          "name": "Demirli Fare Köprüsü",
+          "baseLevel": 2
+        },
+        {
+          "name": "Tüylü Fare Ruhu",
+          "baseLevel": 2
+        },
+        {
+          "name": "İri Fare Yırtıcısı",
+          "baseLevel": 3
+        },
+        {
+          "name": "Deniz Fare Şarkısı",
+          "baseLevel": 3
+        },
+        {
+          "name": "Yeraltı Fare Ayini",
+          "baseLevel": 3
+        },
+        {
+          "name": "Hızlı Fare Denizatı",
+          "baseLevel": 3
+        },
+        {
+          "name": "Süratli Fare Sığınağı",
+          "baseLevel": 3
+        },
+        {
+          "name": "Kömürlü Fare Sığınağı",
+          "baseLevel": 3
+        },
+        {
+          "name": "Uzun Fare Sığınağı",
+          "baseLevel": 3
+        },
+        {
+          "name": "Sevimli Fare İzci",
+          "baseLevel": 3
+        },
+        {
+          "name": "Şimşekli Fare Ateşi",
+          "baseLevel": 3
+        },
+        {
+          "name": "Narin Fare Koruk",
+          "baseLevel": 3
+        },
+        {
+          "name": "Tüylü Fare Kalbi",
+          "baseLevel": 4
+        },
+        {
+          "name": "Kömürlü Fare Fısıltısı",
+          "baseLevel": 4
+        },
+        {
+          "name": "Kristalli Fare Ateşi",
+          "baseLevel": 4
+        },
+        {
+          "name": "Hızlı Fare İzleri",
+          "baseLevel": 4
+        },
+        {
+          "name": "Kömürlü Fare Nefesi",
+          "baseLevel": 4
+        },
+        {
+          "name": "Göksel Fare Hiddeti",
+          "baseLevel": 4
+        },
+        {
+          "name": "Azgın Fare Nefesi",
+          "baseLevel": 4
+        },
+        {
+          "name": "Ateşli Fare Ateşi",
+          "baseLevel": 4
+        },
+        {
+          "name": "Şimşekli Fare Rüzgarı",
+          "baseLevel": 4
+        },
+        {
+          "name": "Zehirli Fare Damlacığı",
+          "baseLevel": 4
+        },
+        {
+          "name": "Gölgeli Fare Hiddeti",
+          "baseLevel": 5
+        },
+        {
+          "name": "Sıcak Fare Sonsuzu",
+          "baseLevel": 5
+        },
+        {
+          "name": "Görkemli Fare Çiçeği",
+          "baseLevel": 5
+        },
+        {
+          "name": "Parlak Fare Kalbi",
+          "baseLevel": 5
+        },
+        {
+          "name": "Kömürlü Fare Gölgesi",
+          "baseLevel": 5
+        },
+        {
+          "name": "Uzun Fare Denizatı",
+          "baseLevel": 5
+        },
+        {
+          "name": "Karanlık Fare Kaderi",
+          "baseLevel": 5
+        },
+        {
+          "name": "Fırtınalı Fare Buzulu",
+          "baseLevel": 5
+        },
+        {
+          "name": "Görkemli Fare Ayini",
+          "baseLevel": 5
+        },
+        {
+          "name": "İri Fare İntikamı",
+          "baseLevel": 5
+        },
+        {
+          "name": "Rüzgarlı Sincap Gözcüsü",
+          "baseLevel": 2
+        },
+        {
+          "name": "Kadim Sincap Nabzı",
+          "baseLevel": 2
+        },
+        {
+          "name": "Deniz Sincap Mirası",
+          "baseLevel": 2
+        },
+        {
+          "name": "Kömürlü Sincap Kölesi",
+          "baseLevel": 2
+        },
+        {
+          "name": "İri Sincap İzleri",
+          "baseLevel": 2
+        },
+        {
+          "name": "Kristalli Sincap Gölgesi",
+          "baseLevel": 2
+        },
+        {
+          "name": "Zehirli Sincap Ateşi",
+          "baseLevel": 2
+        },
+        {
+          "name": "Fırtınalı Sincap Nidası",
+          "baseLevel": 2
+        },
+        {
+          "name": "Sevimli Sincap Sonsuzu",
+          "baseLevel": 2
+        },
+        {
+          "name": "Soğuk Sincap Kalbi",
+          "baseLevel": 2
+        },
+        {
+          "name": "Çöl Sincap Yankısı",
+          "baseLevel": 3
+        },
+        {
+          "name": "Fırtınalı Sincap Ateşi",
+          "baseLevel": 3
+        },
+        {
+          "name": "Fırtınalı Sincap Hiddeti",
+          "baseLevel": 3
+        },
+        {
+          "name": "Zehirli Sincap Rüzgarı",
+          "baseLevel": 3
+        },
+        {
+          "name": "Göksel Sincap Hiddeti",
+          "baseLevel": 3
+        },
+        {
+          "name": "İri Sincap Yankısı",
+          "baseLevel": 3
+        },
+        {
+          "name": "Kıvrak Sincap Yolu",
+          "baseLevel": 3
+        },
+        {
+          "name": "Ateşli Sincap Izdırabı",
+          "baseLevel": 3
+        },
+        {
+          "name": "Kutsal Sincap Kalbi",
+          "baseLevel": 3
+        },
+        {
+          "name": "Kıvrak Sincap Koruyucusu",
+          "baseLevel": 3
+        },
+        {
+          "name": "Kömürlü Sincap Kabuğu",
+          "baseLevel": 4
+        },
+        {
+          "name": "Parlak Sincap Kılıcı",
+          "baseLevel": 4
+        },
+        {
+          "name": "Yıldızlı Sincap Kalbi",
+          "baseLevel": 4
+        },
+        {
+          "name": "Zehirli Sincap Zirvesi",
+          "baseLevel": 4
+        },
+        {
+          "name": "Gölgeli Sincap Damlacığı",
+          "baseLevel": 4
+        },
+        {
+          "name": "Kömürlü Sincap Gücü",
+          "baseLevel": 4
+        },
+        {
+          "name": "Sıcak Sincap Kuyruğu",
+          "baseLevel": 4
+        },
+        {
+          "name": "Derin Sincap Buzulu",
+          "baseLevel": 4
+        },
+        {
+          "name": "Demirli Sincap Çiçeği",
+          "baseLevel": 4
+        },
+        {
+          "name": "Uzun Sincap Sığınağı",
+          "baseLevel": 4
+        },
+        {
+          "name": "Gölgeli Sincap Hiddeti",
+          "baseLevel": 5
+        },
+        {
+          "name": "Azgın Sincap Nidası",
+          "baseLevel": 5
+        },
+        {
+          "name": "Çelik Sincap Büyüsü",
+          "baseLevel": 5
+        },
+        {
+          "name": "Kutsal Sincap Nefesi",
+          "baseLevel": 5
+        },
+        {
+          "name": "Fırtınalı Sincap Gölgesi",
+          "baseLevel": 5
+        },
+        {
+          "name": "Kıvrak Sincap Büyüsü",
+          "baseLevel": 5
+        },
+        {
+          "name": "Yeraltı Sincap Gölgesi",
+          "baseLevel": 5
+        },
+        {
+          "name": "Çelik Sincap Sığınağı",
+          "baseLevel": 5
+        },
+        {
+          "name": "Azgın Sincap Kuyruğu",
+          "baseLevel": 5
+        },
+        {
+          "name": "İri Sincap Kölesi",
+          "baseLevel": 5
+        },
+        {
+          "name": "Deniz Sincap Ateşi",
+          "baseLevel": 6
+        },
+        {
+          "name": "Kömürlü Sincap Denizatı",
+          "baseLevel": 6
+        },
+        {
+          "name": "Cinli Sincap Yırtıcısı",
+          "baseLevel": 6
+        },
+        {
+          "name": "Şimşekli Sincap Kuyruğu",
+          "baseLevel": 6
+        },
+        {
+          "name": "Parlak Sincap Gücü",
+          "baseLevel": 6
+        },
+        {
+          "name": "Çelik Sincap Ayini",
+          "baseLevel": 6
+        },
+        {
+          "name": "Ayışığı Sincap Kökeni",
+          "baseLevel": 6
+        },
+        {
+          "name": "Kadim Sincap Denizatı",
+          "baseLevel": 6
+        },
+        {
+          "name": "Kömürlü Sincap Zamanı",
+          "baseLevel": 6
+        },
+        {
+          "name": "Cinli Sincap Çiçeği",
+          "baseLevel": 6
+        }
+      ],
+      "rare": [
+        {
+          "name": "Kutsal Keçi Kükremesi",
+          "baseLevel": 5
+        },
+        {
+          "name": "Kutsal Keçi Gölgesi",
+          "baseLevel": 5
+        },
+        {
+          "name": "Kutsal Keçi Gözcüsü",
+          "baseLevel": 5
+        },
+        {
+          "name": "Azgın Keçi Dönencesi",
+          "baseLevel": 5
+        },
+        {
+          "name": "Kadim Keçi Nabzı",
+          "baseLevel": 5
+        },
+        {
+          "name": "Süratli Keçi Gölgesi",
+          "baseLevel": 5
+        },
+        {
+          "name": "Ateşli Keçi Gölgesi",
+          "baseLevel": 5
+        },
+        {
+          "name": "Parlak Keçi Çiçeği",
+          "baseLevel": 5
+        },
+        {
+          "name": "Görkemli Keçi Köprüsü",
+          "baseLevel": 5
+        },
+        {
+          "name": "Şimşekli Keçi Yırtıcısı",
+          "baseLevel": 5
+        },
+        {
+          "name": "Karanlık Keçi Koruyucusu",
+          "baseLevel": 6
+        },
+        {
+          "name": "Ayışığı Keçi Dönencesi",
+          "baseLevel": 6
+        },
+        {
+          "name": "Sıcak Keçi İzci",
+          "baseLevel": 6
+        },
+        {
+          "name": "Rüzgarlı Keçi Nidası",
+          "baseLevel": 6
+        },
+        {
+          "name": "Parlak Keçi Denizatı",
+          "baseLevel": 6
+        },
+        {
+          "name": "Yeraltı Keçi Koruk",
+          "baseLevel": 6
+        },
+        {
+          "name": "Kadim Keçi Gücü",
+          "baseLevel": 6
+        },
+        {
+          "name": "Tüylü Keçi Kaderi",
+          "baseLevel": 6
+        },
+        {
+          "name": "Görkemli Keçi Mirası",
+          "baseLevel": 6
+        },
+        {
+          "name": "Sevimli Keçi Ruhu",
+          "baseLevel": 6
+        },
+        {
+          "name": "Kıvrak Keçi Huzuru",
+          "baseLevel": 7
+        },
+        {
+          "name": "Demirli Keçi Fısıltısı",
+          "baseLevel": 7
+        },
+        {
+          "name": "Dev Keçi Kükremesi",
+          "baseLevel": 7
+        },
+        {
+          "name": "Demirli Keçi Damlacığı",
+          "baseLevel": 7
+        },
+        {
+          "name": "Yırtıcı Keçi Buzulu",
+          "baseLevel": 7
+        },
+        {
+          "name": "Tüylü Keçi Ateşi",
+          "baseLevel": 7
+        },
+        {
+          "name": "Hızlı Keçi Gözcüsü",
+          "baseLevel": 7
+        },
+        {
+          "name": "Çöl Keçi Buzulu",
+          "baseLevel": 7
+        },
+        {
+          "name": "Karanlık Keçi Sığınağı",
+          "baseLevel": 7
+        },
+        {
+          "name": "Demirli Keçi Kölesi",
+          "baseLevel": 7
+        },
+        {
+          "name": "Rüzgarlı Keçi Zirvesi",
+          "baseLevel": 8
+        },
+        {
+          "name": "Gölgeli Keçi İzci",
+          "baseLevel": 8
+        },
+        {
+          "name": "Dev Keçi Çiçeği",
+          "baseLevel": 8
+        },
+        {
+          "name": "Ayışığı Keçi Nefesi",
+          "baseLevel": 8
+        },
+        {
+          "name": "Derin Keçi Kılıcı",
+          "baseLevel": 8
+        },
+        {
+          "name": "Uzun Keçi Kaderi",
+          "baseLevel": 8
+        },
+        {
+          "name": "Yıldızlı Keçi Kalbi",
+          "baseLevel": 8
+        },
+        {
+          "name": "Soğuk Keçi Buzulu",
+          "baseLevel": 8
+        },
+        {
+          "name": "Buzlu Keçi Sığınağı",
+          "baseLevel": 8
+        },
+        {
+          "name": "Zehirli Keçi Koruk",
+          "baseLevel": 8
+        },
+        {
+          "name": "Kıvrak Keçi Kılıcı",
+          "baseLevel": 9
+        },
+        {
+          "name": "Süratli Keçi İzci",
+          "baseLevel": 9
+        },
+        {
+          "name": "İri Keçi Gücü",
+          "baseLevel": 9
+        },
+        {
+          "name": "Ateşli Keçi Kalbi",
+          "baseLevel": 9
+        },
+        {
+          "name": "Sessiz Keçi Hiddeti",
+          "baseLevel": 9
+        },
+        {
+          "name": "Buzlu Keçi Nabzı",
+          "baseLevel": 9
+        },
+        {
+          "name": "Çelik Keçi Gücü",
+          "baseLevel": 9
+        },
+        {
+          "name": "Orman Keçi İntikamı",
+          "baseLevel": 9
+        },
+        {
+          "name": "Fırtınalı Keçi Büyüsü",
+          "baseLevel": 9
+        },
+        {
+          "name": "Yırtıcı Keçi Nidası",
+          "baseLevel": 9
+        },
+        {
+          "name": "Çöl Tilki Büyüsü",
+          "baseLevel": 6
+        },
+        {
+          "name": "Yırtıcı Tilki Mirası",
+          "baseLevel": 6
+        },
+        {
+          "name": "Hızlı Tilki Kökeni",
+          "baseLevel": 6
+        },
+        {
+          "name": "Orman Tilki Zirvesi",
+          "baseLevel": 6
+        },
+        {
+          "name": "Dev Tilki Zamanı",
+          "baseLevel": 6
+        },
+        {
+          "name": "Narin Tilki Kuyruğu",
+          "baseLevel": 6
+        },
+        {
+          "name": "Kadim Tilki Kuyruğu",
+          "baseLevel": 6
+        },
+        {
+          "name": "Buzlu Tilki Kalbi",
+          "baseLevel": 6
+        },
+        {
+          "name": "Tüylü Tilki Yankısı",
+          "baseLevel": 6
+        },
+        {
+          "name": "Cinli Tilki Pençesi",
+          "baseLevel": 6
+        },
+        {
+          "name": "Göksel Tilki Zirvesi",
+          "baseLevel": 7
+        },
+        {
+          "name": "Kadim Tilki Hiddeti",
+          "baseLevel": 7
+        },
+        {
+          "name": "Sessiz Tilki Koruk",
+          "baseLevel": 7
+        },
+        {
+          "name": "Görkemli Tilki Nabzı",
+          "baseLevel": 7
+        },
+        {
+          "name": "Deniz Tilki Fısıltısı",
+          "baseLevel": 7
+        },
+        {
+          "name": "Yeraltı Tilki Gözcüsü",
+          "baseLevel": 7
+        },
+        {
+          "name": "Derin Tilki Gözcüsü",
+          "baseLevel": 7
+        },
+        {
+          "name": "Yıldızlı Tilki Sığınağı",
+          "baseLevel": 7
+        },
+        {
+          "name": "Kutsal Tilki Kökeni",
+          "baseLevel": 7
+        },
+        {
+          "name": "Kristalli Tilki Gözcüsü",
+          "baseLevel": 7
+        },
+        {
+          "name": "Tüylü Tilki Koruyucusu",
+          "baseLevel": 8
+        },
+        {
+          "name": "Sevimli Tilki Fısıltısı",
+          "baseLevel": 8
+        },
+        {
+          "name": "Hızlı Tilki Rüzgarı",
+          "baseLevel": 8
+        },
+        {
+          "name": "Şimşekli Tilki Kabuğu",
+          "baseLevel": 8
+        },
+        {
+          "name": "Görkemli Tilki Koruyucusu",
+          "baseLevel": 8
+        },
+        {
+          "name": "Orman Tilki Köprüsü",
+          "baseLevel": 8
+        },
+        {
+          "name": "Yırtıcı Tilki İzleri",
+          "baseLevel": 8
+        },
+        {
+          "name": "Şimşekli Tilki İntikamı",
+          "baseLevel": 8
+        },
+        {
+          "name": "Sıcak Tilki Kabuğu",
+          "baseLevel": 8
+        },
+        {
+          "name": "Yıldızlı Tilki Mirası",
+          "baseLevel": 8
+        },
+        {
+          "name": "Yeraltı Tilki Ayini",
+          "baseLevel": 9
+        },
+        {
+          "name": "Soğuk Tilki Denizatı",
+          "baseLevel": 9
+        },
+        {
+          "name": "Azgın Tilki Kuyruğu",
+          "baseLevel": 9
+        },
+        {
+          "name": "Orman Tilki İzleri",
+          "baseLevel": 9
+        },
+        {
+          "name": "Sıcak Tilki Zirvesi",
+          "baseLevel": 9
+        },
+        {
+          "name": "Göksel Tilki Denizatı",
+          "baseLevel": 9
+        },
+        {
+          "name": "Narin Tilki Nefesi",
+          "baseLevel": 9
+        },
+        {
+          "name": "Azgın Tilki Koruk",
+          "baseLevel": 9
+        },
+        {
+          "name": "Azgın Tilki Izdırabı",
+          "baseLevel": 9
+        },
+        {
+          "name": "Sıcak Tilki Ateşi",
+          "baseLevel": 9
+        },
+        {
+          "name": "Kadim Tilki İzci",
+          "baseLevel": 10
+        },
+        {
+          "name": "Ateşli Tilki İzleri",
+          "baseLevel": 10
+        },
+        {
+          "name": "Zehirli Tilki Yolu",
+          "baseLevel": 10
+        },
+        {
+          "name": "Kömürlü Tilki Ayini",
+          "baseLevel": 10
+        },
+        {
+          "name": "Yıldızlı Tilki Koruyucusu",
+          "baseLevel": 10
+        },
+        {
+          "name": "Göksel Tilki Dönencesi",
+          "baseLevel": 10
+        },
+        {
+          "name": "Ateşli Tilki Damlacığı",
+          "baseLevel": 10
+        },
+        {
+          "name": "Zehirli Tilki Sığınağı",
+          "baseLevel": 10
+        },
+        {
+          "name": "Fırtınalı Tilki Mirası",
+          "baseLevel": 10
+        },
+        {
+          "name": "Dev Tilki Sığınağı",
+          "baseLevel": 10
+        }
+      ],
+      "epic": [
+        {
+          "name": "Yırtıcı Kobra Sığınağı",
+          "baseLevel": 10
+        },
+        {
+          "name": "Rüzgarlı Kobra Sığınağı",
+          "baseLevel": 10
+        },
+        {
+          "name": "Ayışığı Kobra Ayini",
+          "baseLevel": 10
+        },
+        {
+          "name": "Narin Kobra Büyüsü",
+          "baseLevel": 10
+        },
+        {
+          "name": "Şimşekli Kobra Köprüsü",
+          "baseLevel": 10
+        },
+        {
+          "name": "Fırtınalı Kobra Dönencesi",
+          "baseLevel": 10
+        },
+        {
+          "name": "Uçan Kobra Izdırabı",
+          "baseLevel": 10
+        },
+        {
+          "name": "Narin Kobra Izdırabı",
+          "baseLevel": 10
+        },
+        {
+          "name": "Cinli Kobra Gölgesi",
+          "baseLevel": 10
+        },
+        {
+          "name": "Şimşekli Kobra Kuyruğu",
+          "baseLevel": 10
+        },
+        {
+          "name": "Narin Kobra Köprüsü",
+          "baseLevel": 11
+        },
+        {
+          "name": "Fırtınalı Kobra Zirvesi",
+          "baseLevel": 11
+        },
+        {
+          "name": "Ateşli Kobra Koruk",
+          "baseLevel": 11
+        },
+        {
+          "name": "Orman Kobra Ruhu",
+          "baseLevel": 11
+        },
+        {
+          "name": "Sıcak Kobra Gözcüsü",
+          "baseLevel": 11
+        },
+        {
+          "name": "Dev Kobra Kaderi",
+          "baseLevel": 11
+        },
+        {
+          "name": "Cinli Kobra Zirvesi",
+          "baseLevel": 11
+        },
+        {
+          "name": "Kıvrak Kobra Büyüsü",
+          "baseLevel": 11
+        },
+        {
+          "name": "Ateşli Kobra Ayini",
+          "baseLevel": 11
+        },
+        {
+          "name": "Kadim Kobra Şarkısı",
+          "baseLevel": 11
+        },
+        {
+          "name": "Ayışığı Kobra Izdırabı",
+          "baseLevel": 12
+        },
+        {
+          "name": "Çelik Kobra Köprüsü",
+          "baseLevel": 12
+        },
+        {
+          "name": "Hızlı Kobra Sonsuzu",
+          "baseLevel": 12
+        },
+        {
+          "name": "Demirli Kobra Gücü",
+          "baseLevel": 12
+        },
+        {
+          "name": "Sevimli Kobra Damlacığı",
+          "baseLevel": 12
+        },
+        {
+          "name": "Görkemli Kobra Şarkısı",
+          "baseLevel": 12
+        },
+        {
+          "name": "Şimşekli Kobra Nidası",
+          "baseLevel": 12
+        },
+        {
+          "name": "Karanlık Kobra Gölgesi",
+          "baseLevel": 12
+        },
+        {
+          "name": "Dev Kobra Denizatı",
+          "baseLevel": 12
+        },
+        {
+          "name": "Ayışığı Kobra Nefesi",
+          "baseLevel": 12
+        },
+        {
+          "name": "Karanlık Kobra İzleri",
+          "baseLevel": 13
+        },
+        {
+          "name": "Yeraltı Kobra Denizatı",
+          "baseLevel": 13
+        },
+        {
+          "name": "Buzlu Kobra Kuyruğu",
+          "baseLevel": 13
+        },
+        {
+          "name": "Yırtıcı Kobra Zirvesi",
+          "baseLevel": 13
+        },
+        {
+          "name": "Orman Kobra Mirası",
+          "baseLevel": 13
+        },
+        {
+          "name": "Soğuk Kobra Ayini",
+          "baseLevel": 13
+        },
+        {
+          "name": "Azgın Kobra Hiddeti",
+          "baseLevel": 13
+        },
+        {
+          "name": "İri Kobra Kabuğu",
+          "baseLevel": 13
+        },
+        {
+          "name": "Şimşekli Kobra Zamanı",
+          "baseLevel": 13
+        },
+        {
+          "name": "Tüylü Kobra Rüzgarı",
+          "baseLevel": 13
+        },
+        {
+          "name": "Çöl Kobra Yırtıcısı",
+          "baseLevel": 14
+        },
+        {
+          "name": "Soğuk Kobra Kılıcı",
+          "baseLevel": 14
+        },
+        {
+          "name": "Kadim Kobra Damlacığı",
+          "baseLevel": 14
+        },
+        {
+          "name": "Buzlu Kobra Ayini",
+          "baseLevel": 14
+        },
+        {
+          "name": "Buzlu Kobra Gözcüsü",
+          "baseLevel": 14
+        },
+        {
+          "name": "Soğuk Kobra Izdırabı",
+          "baseLevel": 14
+        },
+        {
+          "name": "Buzlu Kobra Fısıltısı",
+          "baseLevel": 14
+        },
+        {
+          "name": "Kadim Kobra Gölgesi",
+          "baseLevel": 14
+        },
+        {
+          "name": "Kömürlü Kobra Nefesi",
+          "baseLevel": 14
+        },
+        {
+          "name": "Azgın Kobra Zamanı",
+          "baseLevel": 14
+        }
+      ],
+      "legendary": [
+        {
+          "name": "Soğuk Ejder Denizatı",
+          "baseLevel": 20
+        },
+        {
+          "name": "İri Ejder İzci",
+          "baseLevel": 20
+        },
+        {
+          "name": "Uzun Ejder Ayini",
+          "baseLevel": 20
+        },
+        {
+          "name": "Kömürlü Ejder Çiçeği",
+          "baseLevel": 20
+        },
+        {
+          "name": "Kömürlü Ejder Sığınağı",
+          "baseLevel": 20
+        },
+        {
+          "name": "Uçan Ejder Yolu",
+          "baseLevel": 20
+        },
+        {
+          "name": "Parlak Ejder Huzuru",
+          "baseLevel": 20
+        },
+        {
+          "name": "Demirli Ejder Hiddeti",
+          "baseLevel": 20
+        },
+        {
+          "name": "Yıldızlı Ejder Gücü",
+          "baseLevel": 20
+        },
+        {
+          "name": "Uzun Ejder Nefesi",
+          "baseLevel": 20
+        },
+        {
+          "name": "Zehirli Ejder Yolu",
+          "baseLevel": 21
+        },
+        {
+          "name": "Kadim Ejder Zirvesi",
+          "baseLevel": 21
+        },
+        {
+          "name": "Karanlık Ejder Kuyruğu",
+          "baseLevel": 21
+        },
+        {
+          "name": "Kıvrak Ejder Rüzgarı",
+          "baseLevel": 21
+        },
+        {
+          "name": "Zehirli Ejder Gölgesi",
+          "baseLevel": 21
+        },
+        {
+          "name": "Çöl Ejder Koruyucusu",
+          "baseLevel": 21
+        },
+        {
+          "name": "Kıvrak Ejder Kabuğu",
+          "baseLevel": 21
+        },
+        {
+          "name": "Soğuk Ejder Mirası",
+          "baseLevel": 21
+        },
+        {
+          "name": "Sessiz Ejder Zamanı",
+          "baseLevel": 21
+        },
+        {
+          "name": "Ateşli Ejder Zamanı",
+          "baseLevel": 21
+        },
+        {
+          "name": "Kadim Ejder Pençesi",
+          "baseLevel": 22
+        },
+        {
+          "name": "Sevimli Ejder Pençesi",
+          "baseLevel": 22
+        },
+        {
+          "name": "Hızlı Ejder Yolu",
+          "baseLevel": 22
+        },
+        {
+          "name": "Çöl Ejder Nidası",
+          "baseLevel": 22
+        },
+        {
+          "name": "Kadim Ejder Ayini",
+          "baseLevel": 22
+        },
+        {
+          "name": "Şimşekli Ejder Dönencesi",
+          "baseLevel": 22
+        },
+        {
+          "name": "Derin Ejder Nidası",
+          "baseLevel": 22
+        },
+        {
+          "name": "Çelik Ejder İntikamı",
+          "baseLevel": 22
+        },
+        {
+          "name": "Sevimli Ejder Yırtıcısı",
+          "baseLevel": 22
+        },
+        {
+          "name": "Tüylü Ejder Kükremesi",
+          "baseLevel": 22
+        },
+        {
+          "name": "Parlak Ejder Denizatı",
+          "baseLevel": 23
+        },
+        {
+          "name": "Kadim Ejder Köprüsü",
+          "baseLevel": 23
+        },
+        {
+          "name": "Narin Ejder Kükremesi",
+          "baseLevel": 23
+        },
+        {
+          "name": "Gölgeli Ejder İzleri",
+          "baseLevel": 23
+        },
+        {
+          "name": "Tüylü Ejder Fısıltısı",
+          "baseLevel": 23
+        },
+        {
+          "name": "Fırtınalı Ejder Zirvesi",
+          "baseLevel": 23
+        },
+        {
+          "name": "Şimşekli Ejder Kaderi",
+          "baseLevel": 23
+        },
+        {
+          "name": "Fırtınalı Ejder Rüzgarı",
+          "baseLevel": 23
+        },
+        {
+          "name": "Kömürlü Ejder Sonsuzu",
+          "baseLevel": 23
+        },
+        {
+          "name": "Cinli Ejder İntikamı",
+          "baseLevel": 23
+        },
+        {
+          "name": "Kıvrak Ejder Köprüsü",
+          "baseLevel": 24
+        },
+        {
+          "name": "Sıcak Ejder Kükremesi",
+          "baseLevel": 24
+        },
+        {
+          "name": "Ayışığı Ejder Pençesi",
+          "baseLevel": 24
+        },
+        {
+          "name": "Yeraltı Ejder Gölgesi",
+          "baseLevel": 24
+        },
+        {
+          "name": "Yeraltı Ejder Sığınağı",
+          "baseLevel": 24
+        },
+        {
+          "name": "Kömürlü Ejder Koruyucusu",
+          "baseLevel": 24
+        },
+        {
+          "name": "Şimşekli Ejder Sığınağı",
+          "baseLevel": 24
+        },
+        {
+          "name": "Uçan Ejder Ayini",
+          "baseLevel": 24
+        },
+        {
+          "name": "Fırtınalı Ejder Kabuğu",
+          "baseLevel": 24
+        },
+        {
+          "name": "Yeraltı Ejder Kılıcı",
+          "baseLevel": 24
+        }
+      ]
+    }
+  }

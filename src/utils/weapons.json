@@ -1,0 +1,2501 @@
+{
+  "WEAPON_POOL": {
+    "WEAPON_OF_ATTACK": {
+      "common": [
+        {
+          "name": "Fırtınalı Tahta Kılıç Damlacığı",
+          "genIndex": 1
+        },
+        {
+          "name": "Buzlu Tahta Kılıç Ayini",
+          "genIndex": 2
+        },
+        {
+          "name": "Tüylü Tahta Kılıç Ateşi",
+          "genIndex": 3
+        },
+        {
+          "name": "Şimşekli Tahta Kılıç Mirası",
+          "genIndex": 4
+        },
+        {
+          "name": "Çelik Tahta Kılıç Kılıcı",
+          "genIndex": 5
+        },
+        {
+          "name": "Yırtıcı Tahta Kılıç Nefesi",
+          "genIndex": 6
+        },
+        {
+          "name": "Ateşli Tahta Kılıç Gölgesi",
+          "genIndex": 7
+        },
+        {
+          "name": "Uzun Tahta Kılıç Gölgesi",
+          "genIndex": 8
+        },
+        {
+          "name": "Gölgeli Tahta Kılıç Gölgesi",
+          "genIndex": 9
+        },
+        {
+          "name": "Görkemli Tahta Kılıç Zamanı",
+          "genIndex": 10
+        },
+        {
+          "name": "Derin Tahta Kılıç Kaderi",
+          "genIndex": 11
+        },
+        {
+          "name": "Sevimli Tahta Kılıç İzleri",
+          "genIndex": 12
+        },
+        {
+          "name": "Kömürlü Tahta Kılıç Köprüsü",
+          "genIndex": 13
+        },
+        {
+          "name": "Ateşli Tahta Kılıç Sığınağı",
+          "genIndex": 14
+        },
+        {
+          "name": "Narin Tahta Kılıç Nefesi",
+          "genIndex": 15
+        },
+        {
+          "name": "Kömürlü Tahta Kılıç Gölgesi",
+          "genIndex": 16
+        },
+        {
+          "name": "İri Tahta Kılıç Gölgesi",
+          "genIndex": 17
+        },
+        {
+          "name": "Demirli Tahta Kılıç Nidası",
+          "genIndex": 18
+        },
+        {
+          "name": "Gölgeli Tahta Kılıç Kükremesi",
+          "genIndex": 19
+        },
+        {
+          "name": "Sessiz Tahta Kılıç Denizatı",
+          "genIndex": 20
+        },
+        {
+          "name": "Görkemli Tahta Kılıç Damlacığı",
+          "genIndex": 21
+        },
+        {
+          "name": "Kıvrak Tahta Kılıç Ayini",
+          "genIndex": 22
+        },
+        {
+          "name": "Yırtıcı Tahta Kılıç Köprüsü",
+          "genIndex": 23
+        },
+        {
+          "name": "Uzun Tahta Kılıç Gücü",
+          "genIndex": 24
+        },
+        {
+          "name": "Yırtıcı Tahta Kılıç Zirvesi",
+          "genIndex": 25
+        },
+        {
+          "name": "Derin Tahta Kılıç Dönencesi",
+          "genIndex": 26
+        },
+        {
+          "name": "Ayışığı Tahta Kılıç Damlacığı",
+          "genIndex": 27
+        },
+        {
+          "name": "Hızlı Tahta Kılıç Zirvesi",
+          "genIndex": 28
+        },
+        {
+          "name": "Göksel Tahta Kılıç Kılıcı",
+          "genIndex": 29
+        },
+        {
+          "name": "Uzun Tahta Kılıç Kabuğu",
+          "genIndex": 30
+        },
+        {
+          "name": "Süratli Tahta Kılıç Kökeni",
+          "genIndex": 31
+        },
+        {
+          "name": "Görkemli Tahta Kılıç Çiçeği",
+          "genIndex": 32
+        },
+        {
+          "name": "Çelik Tahta Kılıç Kuyruğu",
+          "genIndex": 33
+        },
+        {
+          "name": "Buzlu Tahta Kılıç Kölesi",
+          "genIndex": 34
+        },
+        {
+          "name": "Deniz Tahta Kılıç Rüzgarı",
+          "genIndex": 35
+        },
+        {
+          "name": "Narin Tahta Kılıç Kabuğu",
+          "genIndex": 36
+        },
+        {
+          "name": "Buzlu Tahta Kılıç Gölgesi",
+          "genIndex": 37
+        },
+        {
+          "name": "Demirli Tahta Kılıç Sığınağı",
+          "genIndex": 38
+        },
+        {
+          "name": "Ayışığı Tahta Kılıç Gölgesi",
+          "genIndex": 39
+        },
+        {
+          "name": "Rüzgarlı Tahta Kılıç Yolu",
+          "genIndex": 40
+        },
+        {
+          "name": "Dev Tahta Kılıç Kabuğu",
+          "genIndex": 41
+        },
+        {
+          "name": "Dev Tahta Kılıç Pençesi",
+          "genIndex": 42
+        },
+        {
+          "name": "Süratli Tahta Kılıç İzleri",
+          "genIndex": 43
+        },
+        {
+          "name": "Uçan Tahta Kılıç Buzulu",
+          "genIndex": 44
+        },
+        {
+          "name": "Uzun Tahta Kılıç Koruyucusu",
+          "genIndex": 45
+        },
+        {
+          "name": "Süratli Tahta Kılıç Ayini",
+          "genIndex": 46
+        },
+        {
+          "name": "Tüylü Tahta Kılıç Zirvesi",
+          "genIndex": 47
+        },
+        {
+          "name": "Uçan Tahta Kılıç Gücü",
+          "genIndex": 48
+        },
+        {
+          "name": "Sessiz Tahta Kılıç Kükremesi",
+          "genIndex": 49
+        },
+        {
+          "name": "Göksel Tahta Kılıç İzci",
+          "genIndex": 50
+        }
+      ],
+      "rare": [
+        {
+          "name": "İri Demir Kılıç Sonsuzu",
+          "genIndex": 1
+        },
+        {
+          "name": "Uçan Demir Kılıç Sığınağı",
+          "genIndex": 2
+        },
+        {
+          "name": "Görkemli Demir Kılıç Kükremesi",
+          "genIndex": 3
+        },
+        {
+          "name": "Yırtıcı Demir Kılıç Zirvesi",
+          "genIndex": 4
+        },
+        {
+          "name": "Narin Demir Kılıç Koruk",
+          "genIndex": 5
+        },
+        {
+          "name": "Çelik Demir Kılıç Fısıltısı",
+          "genIndex": 6
+        },
+        {
+          "name": "Buzlu Demir Kılıç Ruhu",
+          "genIndex": 7
+        },
+        {
+          "name": "Ateşli Demir Kılıç Nefesi",
+          "genIndex": 8
+        },
+        {
+          "name": "Demirli Demir Kılıç Sığınağı",
+          "genIndex": 9
+        },
+        {
+          "name": "Cinli Demir Kılıç Damlacığı",
+          "genIndex": 10
+        },
+        {
+          "name": "İri Demir Kılıç Dönencesi",
+          "genIndex": 11
+        },
+        {
+          "name": "Zehirli Demir Kılıç Koruk",
+          "genIndex": 12
+        },
+        {
+          "name": "Azgın Demir Kılıç Kuyruğu",
+          "genIndex": 13
+        },
+        {
+          "name": "Çelik Demir Kılıç Ruhu",
+          "genIndex": 14
+        },
+        {
+          "name": "Şimşekli Demir Kılıç Kalbi",
+          "genIndex": 15
+        },
+        {
+          "name": "Çöl Demir Kılıç Köprüsü",
+          "genIndex": 16
+        },
+        {
+          "name": "Parlak Demir Kılıç Ateşi",
+          "genIndex": 17
+        },
+        {
+          "name": "Narin Demir Kılıç Ayini",
+          "genIndex": 18
+        },
+        {
+          "name": "Uzun Demir Kılıç Kölesi",
+          "genIndex": 19
+        },
+        {
+          "name": "Sessiz Demir Kılıç Hiddeti",
+          "genIndex": 20
+        },
+        {
+          "name": "Fırtınalı Demir Kılıç Büyüsü",
+          "genIndex": 21
+        },
+        {
+          "name": "Buzlu Demir Kılıç Hiddeti",
+          "genIndex": 22
+        },
+        {
+          "name": "Karanlık Demir Kılıç Koruk",
+          "genIndex": 23
+        },
+        {
+          "name": "Yeraltı Demir Kılıç Zirvesi",
+          "genIndex": 24
+        },
+        {
+          "name": "Kıvrak Demir Kılıç Sonsuzu",
+          "genIndex": 25
+        },
+        {
+          "name": "Deniz Demir Kılıç Nefesi",
+          "genIndex": 26
+        },
+        {
+          "name": "Göksel Demir Kılıç Kölesi",
+          "genIndex": 27
+        },
+        {
+          "name": "Karanlık Demir Kılıç Kölesi",
+          "genIndex": 28
+        },
+        {
+          "name": "Göksel Demir Kılıç İntikamı",
+          "genIndex": 29
+        },
+        {
+          "name": "Süratli Demir Kılıç Şarkısı",
+          "genIndex": 30
+        },
+        {
+          "name": "Hızlı Demir Kılıç Nidası",
+          "genIndex": 31
+        },
+        {
+          "name": "Yıldızlı Demir Kılıç Dönencesi",
+          "genIndex": 32
+        },
+        {
+          "name": "Tüylü Demir Kılıç Sığınağı",
+          "genIndex": 33
+        },
+        {
+          "name": "Sıcak Demir Kılıç Yankısı",
+          "genIndex": 34
+        },
+        {
+          "name": "Gölgeli Demir Kılıç Koruk",
+          "genIndex": 35
+        },
+        {
+          "name": "Görkemli Demir Kılıç Kuyruğu",
+          "genIndex": 36
+        },
+        {
+          "name": "Kristalli Demir Kılıç Huzuru",
+          "genIndex": 37
+        },
+        {
+          "name": "Yırtıcı Demir Kılıç Gözcüsü",
+          "genIndex": 38
+        },
+        {
+          "name": "Rüzgarlı Demir Kılıç Kökeni",
+          "genIndex": 39
+        },
+        {
+          "name": "Zehirli Demir Kılıç Sığınağı",
+          "genIndex": 40
+        },
+        {
+          "name": "Kadim Demir Kılıç Ruhu",
+          "genIndex": 41
+        },
+        {
+          "name": "Karanlık Demir Kılıç Pençesi",
+          "genIndex": 42
+        },
+        {
+          "name": "Kutsal Demir Kılıç Gölgesi",
+          "genIndex": 43
+        },
+        {
+          "name": "Parlak Demir Kılıç Sığınağı",
+          "genIndex": 44
+        },
+        {
+          "name": "Şimşekli Demir Kılıç Izdırabı",
+          "genIndex": 45
+        },
+        {
+          "name": "Uzun Demir Kılıç Nabzı",
+          "genIndex": 46
+        },
+        {
+          "name": "Sevimli Demir Kılıç Pençesi",
+          "genIndex": 47
+        },
+        {
+          "name": "Fırtınalı Demir Kılıç Gölgesi",
+          "genIndex": 48
+        },
+        {
+          "name": "Zehirli Demir Kılıç Zirvesi",
+          "genIndex": 49
+        },
+        {
+          "name": "İri Demir Kılıç Denizatı",
+          "genIndex": 50
+        }
+      ],
+      "epic": [
+        {
+          "name": "Uzun Büyülü Kılıç Kölesi",
+          "genIndex": 1
+        },
+        {
+          "name": "Azgın Büyülü Kılıç İzleri",
+          "genIndex": 2
+        },
+        {
+          "name": "Narin Büyülü Kılıç Gözcüsü",
+          "genIndex": 3
+        },
+        {
+          "name": "Dev Büyülü Kılıç Izdırabı",
+          "genIndex": 4
+        },
+        {
+          "name": "Kıvrak Büyülü Kılıç Fısıltısı",
+          "genIndex": 5
+        },
+        {
+          "name": "Kadim Büyülü Kılıç Ruhu",
+          "genIndex": 6
+        },
+        {
+          "name": "Deniz Büyülü Kılıç Kökeni",
+          "genIndex": 7
+        },
+        {
+          "name": "Deniz Büyülü Kılıç Koruk",
+          "genIndex": 8
+        },
+        {
+          "name": "Kadim Büyülü Kılıç Denizatı",
+          "genIndex": 9
+        },
+        {
+          "name": "Yeraltı Büyülü Kılıç Kalbi",
+          "genIndex": 10
+        },
+        {
+          "name": "Orman Büyülü Kılıç Gölgesi",
+          "genIndex": 11
+        },
+        {
+          "name": "Buzlu Büyülü Kılıç Gölgesi",
+          "genIndex": 12
+        },
+        {
+          "name": "Yeraltı Büyülü Kılıç Köprüsü",
+          "genIndex": 13
+        },
+        {
+          "name": "Sıcak Büyülü Kılıç Sonsuzu",
+          "genIndex": 14
+        },
+        {
+          "name": "Hızlı Büyülü Kılıç Sonsuzu",
+          "genIndex": 15
+        },
+        {
+          "name": "Kömürlü Büyülü Kılıç Huzuru",
+          "genIndex": 16
+        },
+        {
+          "name": "Rüzgarlı Büyülü Kılıç Yırtıcısı",
+          "genIndex": 17
+        },
+        {
+          "name": "Parlak Büyülü Kılıç Kalbi",
+          "genIndex": 18
+        },
+        {
+          "name": "Azgın Büyülü Kılıç Gölgesi",
+          "genIndex": 19
+        },
+        {
+          "name": "Derin Büyülü Kılıç Nidası",
+          "genIndex": 20
+        },
+        {
+          "name": "Karanlık Büyülü Kılıç Zamanı",
+          "genIndex": 21
+        },
+        {
+          "name": "Kutsal Büyülü Kılıç Kaderi",
+          "genIndex": 22
+        },
+        {
+          "name": "Kutsal Büyülü Kılıç Zirvesi",
+          "genIndex": 23
+        },
+        {
+          "name": "Yeraltı Büyülü Kılıç Sığınağı",
+          "genIndex": 24
+        },
+        {
+          "name": "Şimşekli Büyülü Kılıç İzleri",
+          "genIndex": 25
+        },
+        {
+          "name": "Gölgeli Büyülü Kılıç Sığınağı",
+          "genIndex": 26
+        },
+        {
+          "name": "Yeraltı Büyülü Kılıç Gölgesi",
+          "genIndex": 27
+        },
+        {
+          "name": "Azgın Büyülü Kılıç Sonsuzu",
+          "genIndex": 28
+        },
+        {
+          "name": "Görkemli Büyülü Kılıç Huzuru",
+          "genIndex": 29
+        },
+        {
+          "name": "Sessiz Büyülü Kılıç Köprüsü",
+          "genIndex": 30
+        },
+        {
+          "name": "Deniz Büyülü Kılıç Gölgesi",
+          "genIndex": 31
+        },
+        {
+          "name": "Narin Büyülü Kılıç Çiçeği",
+          "genIndex": 32
+        },
+        {
+          "name": "Şimşekli Büyülü Kılıç Zamanı",
+          "genIndex": 33
+        },
+        {
+          "name": "Süratli Büyülü Kılıç Sonsuzu",
+          "genIndex": 34
+        },
+        {
+          "name": "Yırtıcı Büyülü Kılıç Nabzı",
+          "genIndex": 35
+        },
+        {
+          "name": "Hızlı Büyülü Kılıç Zirvesi",
+          "genIndex": 36
+        },
+        {
+          "name": "Ayışığı Büyülü Kılıç Kaderi",
+          "genIndex": 37
+        },
+        {
+          "name": "Dev Büyülü Kılıç Sığınağı",
+          "genIndex": 38
+        },
+        {
+          "name": "Ateşli Büyülü Kılıç Pençesi",
+          "genIndex": 39
+        },
+        {
+          "name": "Azgın Büyülü Kılıç Sığınağı",
+          "genIndex": 40
+        },
+        {
+          "name": "Zehirli Büyülü Kılıç Rüzgarı",
+          "genIndex": 41
+        },
+        {
+          "name": "Karanlık Büyülü Kılıç Buzulu",
+          "genIndex": 42
+        },
+        {
+          "name": "Parlak Büyülü Kılıç İzleri",
+          "genIndex": 43
+        },
+        {
+          "name": "Yıldızlı Büyülü Kılıç Kölesi",
+          "genIndex": 44
+        },
+        {
+          "name": "Dev Büyülü Kılıç Kökeni",
+          "genIndex": 45
+        },
+        {
+          "name": "Şimşekli Büyülü Kılıç Ateşi",
+          "genIndex": 46
+        },
+        {
+          "name": "Kömürlü Büyülü Kılıç Sığınağı",
+          "genIndex": 47
+        },
+        {
+          "name": "Kristalli Büyülü Kılıç Şarkısı",
+          "genIndex": 48
+        },
+        {
+          "name": "Sevimli Büyülü Kılıç Zamanı",
+          "genIndex": 49
+        },
+        {
+          "name": "Tüylü Büyülü Kılıç Sonsuzu",
+          "genIndex": 50
+        }
+      ],
+      "legendary": [
+        {
+          "name": "Fırtınalı Ejder Kılıcı Nefesi",
+          "genIndex": 1
+        },
+        {
+          "name": "Ateşli Ejder Kılıcı Yolu",
+          "genIndex": 2
+        },
+        {
+          "name": "Yırtıcı Ejder Kılıcı Yırtıcısı",
+          "genIndex": 3
+        },
+        {
+          "name": "Karanlık Ejder Kılıcı Yolu",
+          "genIndex": 4
+        },
+        {
+          "name": "Tüylü Ejder Kılıcı Kaderi",
+          "genIndex": 5
+        },
+        {
+          "name": "Görkemli Ejder Kılıcı Kılıcı",
+          "genIndex": 6
+        },
+        {
+          "name": "Gölgeli Ejder Kılıcı Büyüsü",
+          "genIndex": 7
+        },
+        {
+          "name": "İri Ejder Kılıcı Denizatı",
+          "genIndex": 8
+        },
+        {
+          "name": "Zehirli Ejder Kılıcı Damlacığı",
+          "genIndex": 9
+        },
+        {
+          "name": "Deniz Ejder Kılıcı Gölgesi",
+          "genIndex": 10
+        },
+        {
+          "name": "Narin Ejder Kılıcı İzci",
+          "genIndex": 11
+        },
+        {
+          "name": "Süratli Ejder Kılıcı Gölgesi",
+          "genIndex": 12
+        },
+        {
+          "name": "Uzun Ejder Kılıcı İzci",
+          "genIndex": 13
+        },
+        {
+          "name": "Karanlık Ejder Kılıcı Kalbi",
+          "genIndex": 14
+        },
+        {
+          "name": "Azgın Ejder Kılıcı Yankısı",
+          "genIndex": 15
+        },
+        {
+          "name": "Narin Ejder Kılıcı Kılıcı",
+          "genIndex": 16
+        },
+        {
+          "name": "Kutsal Ejder Kılıcı Sığınağı",
+          "genIndex": 17
+        },
+        {
+          "name": "Çelik Ejder Kılıcı Yolu",
+          "genIndex": 18
+        },
+        {
+          "name": "Demirli Ejder Kılıcı Şarkısı",
+          "genIndex": 19
+        },
+        {
+          "name": "Ayışığı Ejder Kılıcı İzleri",
+          "genIndex": 20
+        },
+        {
+          "name": "Çelik Ejder Kılıcı Kabuğu",
+          "genIndex": 21
+        },
+        {
+          "name": "İri Ejder Kılıcı Kuyruğu",
+          "genIndex": 22
+        },
+        {
+          "name": "Yeraltı Ejder Kılıcı Gölgesi",
+          "genIndex": 23
+        },
+        {
+          "name": "İri Ejder Kılıcı Yırtıcısı",
+          "genIndex": 24
+        },
+        {
+          "name": "Ayışığı Ejder Kılıcı Dönencesi",
+          "genIndex": 25
+        },
+        {
+          "name": "Kristalli Ejder Kılıcı Buzulu",
+          "genIndex": 26
+        },
+        {
+          "name": "Kömürlü Ejder Kılıcı Pençesi",
+          "genIndex": 27
+        },
+        {
+          "name": "Orman Ejder Kılıcı Nefesi",
+          "genIndex": 28
+        },
+        {
+          "name": "Kutsal Ejder Kılıcı Gölgesi",
+          "genIndex": 29
+        },
+        {
+          "name": "Kıvrak Ejder Kılıcı Hiddeti",
+          "genIndex": 30
+        },
+        {
+          "name": "Tüylü Ejder Kılıcı Mirası",
+          "genIndex": 31
+        },
+        {
+          "name": "Görkemli Ejder Kılıcı Sığınağı",
+          "genIndex": 32
+        },
+        {
+          "name": "Ateşli Ejder Kılıcı Kükremesi",
+          "genIndex": 33
+        },
+        {
+          "name": "Kömürlü Ejder Kılıcı Kuyruğu",
+          "genIndex": 34
+        },
+        {
+          "name": "Dev Ejder Kılıcı İntikamı",
+          "genIndex": 35
+        },
+        {
+          "name": "Görkemli Ejder Kılıcı Yırtıcısı",
+          "genIndex": 36
+        },
+        {
+          "name": "Tüylü Ejder Kılıcı Ruhu",
+          "genIndex": 37
+        },
+        {
+          "name": "Narin Ejder Kılıcı Koruyucusu",
+          "genIndex": 38
+        },
+        {
+          "name": "Hızlı Ejder Kılıcı Dönencesi",
+          "genIndex": 39
+        },
+        {
+          "name": "Tüylü Ejder Kılıcı Denizatı",
+          "genIndex": 40
+        },
+        {
+          "name": "Soğuk Ejder Kılıcı Koruyucusu",
+          "genIndex": 41
+        },
+        {
+          "name": "Görkemli Ejder Kılıcı Sonsuzu",
+          "genIndex": 42
+        },
+        {
+          "name": "Kristalli Ejder Kılıcı Kılıcı",
+          "genIndex": 43
+        },
+        {
+          "name": "Gölgeli Ejder Kılıcı Yolu",
+          "genIndex": 44
+        },
+        {
+          "name": "Karanlık Ejder Kılıcı Kaderi",
+          "genIndex": 45
+        },
+        {
+          "name": "Soğuk Ejder Kılıcı Köprüsü",
+          "genIndex": 46
+        },
+        {
+          "name": "Tüylü Ejder Kılıcı Koruk",
+          "genIndex": 47
+        },
+        {
+          "name": "Sıcak Ejder Kılıcı Sığınağı",
+          "genIndex": 48
+        },
+        {
+          "name": "Cinli Ejder Kılıcı Kalbi",
+          "genIndex": 49
+        },
+        {
+          "name": "Rüzgarlı Ejder Kılıcı Yolu",
+          "genIndex": 50
+        }
+      ]
+    },
+    "WEAPON_OF_ARMOR": {
+      "common": [
+        {
+          "name": "Kristalli Hırka Denizatı",
+          "genIndex": 1
+        },
+        {
+          "name": "Soğuk Hırka İzleri",
+          "genIndex": 2
+        },
+        {
+          "name": "Sessiz Hırka Kölesi",
+          "genIndex": 3
+        },
+        {
+          "name": "Kutsal Hırka Gölgesi",
+          "genIndex": 4
+        },
+        {
+          "name": "Kadim Hırka Yankısı",
+          "genIndex": 5
+        },
+        {
+          "name": "Hızlı Hırka Sığınağı",
+          "genIndex": 6
+        },
+        {
+          "name": "Azgın Hırka Ruhu",
+          "genIndex": 7
+        },
+        {
+          "name": "Göksel Hırka Pençesi",
+          "genIndex": 8
+        },
+        {
+          "name": "Kutsal Hırka Hiddeti",
+          "genIndex": 9
+        },
+        {
+          "name": "Yeraltı Hırka Dönencesi",
+          "genIndex": 10
+        },
+        {
+          "name": "Yıldızlı Hırka İzleri",
+          "genIndex": 11
+        },
+        {
+          "name": "Sessiz Hırka Gölgesi",
+          "genIndex": 12
+        },
+        {
+          "name": "Cinli Hırka Pençesi",
+          "genIndex": 13
+        },
+        {
+          "name": "Ateşli Hırka Rüzgarı",
+          "genIndex": 14
+        },
+        {
+          "name": "Görkemli Hırka Huzuru",
+          "genIndex": 15
+        },
+        {
+          "name": "Demirli Hırka Gölgesi",
+          "genIndex": 16
+        },
+        {
+          "name": "Görkemli Hırka İntikamı",
+          "genIndex": 17
+        },
+        {
+          "name": "Şimşekli Hırka Zirvesi",
+          "genIndex": 18
+        },
+        {
+          "name": "Buzlu Hırka Buzulu",
+          "genIndex": 19
+        },
+        {
+          "name": "Dev Hırka Zamanı",
+          "genIndex": 20
+        },
+        {
+          "name": "Narin Hırka Sonsuzu",
+          "genIndex": 21
+        },
+        {
+          "name": "Fırtınalı Hırka Yırtıcısı",
+          "genIndex": 22
+        },
+        {
+          "name": "Sevimli Hırka Gölgesi",
+          "genIndex": 23
+        },
+        {
+          "name": "Yeraltı Hırka Kabuğu",
+          "genIndex": 24
+        },
+        {
+          "name": "Gölgeli Hırka Kuyruğu",
+          "genIndex": 25
+        },
+        {
+          "name": "Karanlık Hırka Koruk",
+          "genIndex": 26
+        },
+        {
+          "name": "Orman Hırka Izdırabı",
+          "genIndex": 27
+        },
+        {
+          "name": "Yıldızlı Hırka Köprüsü",
+          "genIndex": 28
+        },
+        {
+          "name": "Kadim Hırka Hiddeti",
+          "genIndex": 29
+        },
+        {
+          "name": "Kömürlü Hırka Gölgesi",
+          "genIndex": 30
+        },
+        {
+          "name": "Yeraltı Hırka Huzuru",
+          "genIndex": 31
+        },
+        {
+          "name": "Kutsal Hırka Denizatı",
+          "genIndex": 32
+        },
+        {
+          "name": "Dev Hırka Hiddeti",
+          "genIndex": 33
+        },
+        {
+          "name": "Çöl Hırka Denizatı",
+          "genIndex": 34
+        },
+        {
+          "name": "Yeraltı Hırka Ruhu",
+          "genIndex": 35
+        },
+        {
+          "name": "Hızlı Hırka Kuyruğu",
+          "genIndex": 36
+        },
+        {
+          "name": "Derin Hırka Gölgesi",
+          "genIndex": 37
+        },
+        {
+          "name": "Zehirli Hırka Gücü",
+          "genIndex": 38
+        },
+        {
+          "name": "Dev Hırka Ruhu",
+          "genIndex": 39
+        },
+        {
+          "name": "Süratli Hırka Ruhu",
+          "genIndex": 40
+        },
+        {
+          "name": "Uzun Hırka Hiddeti",
+          "genIndex": 41
+        },
+        {
+          "name": "Tüylü Hırka Fısıltısı",
+          "genIndex": 42
+        },
+        {
+          "name": "Gölgeli Hırka Kaderi",
+          "genIndex": 43
+        },
+        {
+          "name": "Zehirli Hırka Hiddeti",
+          "genIndex": 44
+        },
+        {
+          "name": "Derin Hırka Yolu",
+          "genIndex": 45
+        },
+        {
+          "name": "Narin Hırka Büyüsü",
+          "genIndex": 46
+        },
+        {
+          "name": "Demirli Hırka Gözcüsü",
+          "genIndex": 47
+        },
+        {
+          "name": "Sıcak Hırka Rüzgarı",
+          "genIndex": 48
+        },
+        {
+          "name": "Sessiz Hırka Nabzı",
+          "genIndex": 49
+        },
+        {
+          "name": "Uzun Hırka Gölgesi",
+          "genIndex": 50
+        }
+      ],
+      "rare": [
+        {
+          "name": "Tüylü Zırh Gölgesi",
+          "genIndex": 1
+        },
+        {
+          "name": "Hızlı Zırh Sığınağı",
+          "genIndex": 2
+        },
+        {
+          "name": "Derin Zırh Pençesi",
+          "genIndex": 3
+        },
+        {
+          "name": "Ayışığı Zırh Kuyruğu",
+          "genIndex": 4
+        },
+        {
+          "name": "Buzlu Zırh Gölgesi",
+          "genIndex": 5
+        },
+        {
+          "name": "Çelik Zırh Kükremesi",
+          "genIndex": 6
+        },
+        {
+          "name": "Kristalli Zırh Nabzı",
+          "genIndex": 7
+        },
+        {
+          "name": "Demirli Zırh Gücü",
+          "genIndex": 8
+        },
+        {
+          "name": "Görkemli Zırh Kükremesi",
+          "genIndex": 9
+        },
+        {
+          "name": "Yeraltı Zırh Pençesi",
+          "genIndex": 10
+        },
+        {
+          "name": "Zehirli Zırh Pençesi",
+          "genIndex": 11
+        },
+        {
+          "name": "Orman Zırh Yolu",
+          "genIndex": 12
+        },
+        {
+          "name": "Deniz Zırh Yankısı",
+          "genIndex": 13
+        },
+        {
+          "name": "Kristalli Zırh Zamanı",
+          "genIndex": 14
+        },
+        {
+          "name": "Ateşli Zırh Fısıltısı",
+          "genIndex": 15
+        },
+        {
+          "name": "Cinli Zırh Gölgesi",
+          "genIndex": 16
+        },
+        {
+          "name": "Azgın Zırh Gücü",
+          "genIndex": 17
+        },
+        {
+          "name": "Çelik Zırh Fısıltısı",
+          "genIndex": 18
+        },
+        {
+          "name": "Yeraltı Zırh Kölesi",
+          "genIndex": 19
+        },
+        {
+          "name": "Kıvrak Zırh Kaderi",
+          "genIndex": 20
+        },
+        {
+          "name": "Gölgeli Zırh Pençesi",
+          "genIndex": 21
+        },
+        {
+          "name": "Karanlık Zırh Gölgesi",
+          "genIndex": 22
+        },
+        {
+          "name": "Sevimli Zırh Izdırabı",
+          "genIndex": 23
+        },
+        {
+          "name": "Orman Zırh Köprüsü",
+          "genIndex": 24
+        },
+        {
+          "name": "Sıcak Zırh Zamanı",
+          "genIndex": 25
+        },
+        {
+          "name": "Fırtınalı Zırh Gölgesi",
+          "genIndex": 26
+        },
+        {
+          "name": "Sessiz Zırh Kükremesi",
+          "genIndex": 27
+        },
+        {
+          "name": "Görkemli Zırh Rüzgarı",
+          "genIndex": 28
+        },
+        {
+          "name": "Fırtınalı Zırh Koruk",
+          "genIndex": 29
+        },
+        {
+          "name": "Gölgeli Zırh Kuyruğu",
+          "genIndex": 30
+        },
+        {
+          "name": "Azgın Zırh Sığınağı",
+          "genIndex": 31
+        },
+        {
+          "name": "Kadim Zırh Sığınağı",
+          "genIndex": 32
+        },
+        {
+          "name": "İri Zırh İntikamı",
+          "genIndex": 33
+        },
+        {
+          "name": "Hızlı Zırh Kükremesi",
+          "genIndex": 34
+        },
+        {
+          "name": "Ayışığı Zırh Kükremesi",
+          "genIndex": 35
+        },
+        {
+          "name": "Şimşekli Zırh Kabuğu",
+          "genIndex": 36
+        },
+        {
+          "name": "Hızlı Zırh Kölesi",
+          "genIndex": 37
+        },
+        {
+          "name": "Soğuk Zırh Mirası",
+          "genIndex": 38
+        },
+        {
+          "name": "Ayışığı Zırh Ruhu",
+          "genIndex": 39
+        },
+        {
+          "name": "Narin Zırh Izdırabı",
+          "genIndex": 40
+        },
+        {
+          "name": "Azgın Zırh İntikamı",
+          "genIndex": 41
+        },
+        {
+          "name": "Demirli Zırh Rüzgarı",
+          "genIndex": 42
+        },
+        {
+          "name": "Ayışığı Zırh Gözcüsü",
+          "genIndex": 43
+        },
+        {
+          "name": "Narin Zırh Buzulu",
+          "genIndex": 44
+        },
+        {
+          "name": "Gölgeli Zırh Sığınağı",
+          "genIndex": 45
+        },
+        {
+          "name": "Rüzgarlı Zırh İzci",
+          "genIndex": 46
+        },
+        {
+          "name": "Yırtıcı Zırh İzci",
+          "genIndex": 47
+        },
+        {
+          "name": "Uçan Zırh Koruk",
+          "genIndex": 48
+        },
+        {
+          "name": "Rüzgarlı Zırh Nabzı",
+          "genIndex": 49
+        },
+        {
+          "name": "Sevimli Zırh Kılıcı",
+          "genIndex": 50
+        }
+      ],
+      "epic": [
+        {
+          "name": "Uzun Runik Zırh Zirvesi",
+          "genIndex": 1
+        },
+        {
+          "name": "Fırtınalı Runik Zırh Kaderi",
+          "genIndex": 2
+        },
+        {
+          "name": "Yırtıcı Runik Zırh Yırtıcısı",
+          "genIndex": 3
+        },
+        {
+          "name": "Zehirli Runik Zırh Çiçeği",
+          "genIndex": 4
+        },
+        {
+          "name": "Derin Runik Zırh İzleri",
+          "genIndex": 5
+        },
+        {
+          "name": "Ateşli Runik Zırh Yankısı",
+          "genIndex": 6
+        },
+        {
+          "name": "İri Runik Zırh Denizatı",
+          "genIndex": 7
+        },
+        {
+          "name": "Yırtıcı Runik Zırh İzleri",
+          "genIndex": 8
+        },
+        {
+          "name": "Çelik Runik Zırh Gölgesi",
+          "genIndex": 9
+        },
+        {
+          "name": "Gölgeli Runik Zırh Buzulu",
+          "genIndex": 10
+        },
+        {
+          "name": "Sıcak Runik Zırh Köprüsü",
+          "genIndex": 11
+        },
+        {
+          "name": "Süratli Runik Zırh Nabzı",
+          "genIndex": 12
+        },
+        {
+          "name": "Parlak Runik Zırh Izdırabı",
+          "genIndex": 13
+        },
+        {
+          "name": "Kadim Runik Zırh Sığınağı",
+          "genIndex": 14
+        },
+        {
+          "name": "Sıcak Runik Zırh Gölgesi",
+          "genIndex": 15
+        },
+        {
+          "name": "Buzlu Runik Zırh Kaderi",
+          "genIndex": 16
+        },
+        {
+          "name": "Şimşekli Runik Zırh Yırtıcısı",
+          "genIndex": 17
+        },
+        {
+          "name": "Şimşekli Runik Zırh Mirası",
+          "genIndex": 18
+        },
+        {
+          "name": "Kömürlü Runik Zırh İntikamı",
+          "genIndex": 19
+        },
+        {
+          "name": "Azgın Runik Zırh Büyüsü",
+          "genIndex": 20
+        },
+        {
+          "name": "Yırtıcı Runik Zırh Kökeni",
+          "genIndex": 21
+        },
+        {
+          "name": "Fırtınalı Runik Zırh Yolu",
+          "genIndex": 22
+        },
+        {
+          "name": "Sessiz Runik Zırh Sonsuzu",
+          "genIndex": 23
+        },
+        {
+          "name": "Cinli Runik Zırh Nabzı",
+          "genIndex": 24
+        },
+        {
+          "name": "Kömürlü Runik Zırh Zirvesi",
+          "genIndex": 25
+        },
+        {
+          "name": "Yeraltı Runik Zırh Gölgesi",
+          "genIndex": 26
+        },
+        {
+          "name": "Süratli Runik Zırh Kaderi",
+          "genIndex": 27
+        },
+        {
+          "name": "Tüylü Runik Zırh Kaderi",
+          "genIndex": 28
+        },
+        {
+          "name": "Yeraltı Runik Zırh Zamanı",
+          "genIndex": 29
+        },
+        {
+          "name": "Buzlu Runik Zırh Kuyruğu",
+          "genIndex": 30
+        },
+        {
+          "name": "Uçan Runik Zırh Ateşi",
+          "genIndex": 31
+        },
+        {
+          "name": "Yırtıcı Runik Zırh Fısıltısı",
+          "genIndex": 32
+        },
+        {
+          "name": "Uzun Runik Zırh Köprüsü",
+          "genIndex": 33
+        },
+        {
+          "name": "Kömürlü Runik Zırh Sığınağı",
+          "genIndex": 34
+        },
+        {
+          "name": "Yıldızlı Runik Zırh Izdırabı",
+          "genIndex": 35
+        },
+        {
+          "name": "Süratli Runik Zırh Köprüsü",
+          "genIndex": 36
+        },
+        {
+          "name": "Buzlu Runik Zırh Rüzgarı",
+          "genIndex": 37
+        },
+        {
+          "name": "Azgın Runik Zırh Pençesi",
+          "genIndex": 38
+        },
+        {
+          "name": "Cinli Runik Zırh İzci",
+          "genIndex": 39
+        },
+        {
+          "name": "Yıldızlı Runik Zırh Yırtıcısı",
+          "genIndex": 40
+        },
+        {
+          "name": "Rüzgarlı Runik Zırh Gücü",
+          "genIndex": 41
+        },
+        {
+          "name": "Buzlu Runik Zırh Sığınağı",
+          "genIndex": 42
+        },
+        {
+          "name": "Sevimli Runik Zırh Pençesi",
+          "genIndex": 43
+        },
+        {
+          "name": "Zehirli Runik Zırh Sonsuzu",
+          "genIndex": 44
+        },
+        {
+          "name": "Tüylü Runik Zırh Kabuğu",
+          "genIndex": 45
+        },
+        {
+          "name": "Parlak Runik Zırh Kuyruğu",
+          "genIndex": 46
+        },
+        {
+          "name": "Karanlık Runik Zırh Rüzgarı",
+          "genIndex": 47
+        },
+        {
+          "name": "Demirli Runik Zırh Kabuğu",
+          "genIndex": 48
+        },
+        {
+          "name": "Yıldızlı Runik Zırh Sığınağı",
+          "genIndex": 49
+        },
+        {
+          "name": "Parlak Runik Zırh Nefesi",
+          "genIndex": 50
+        }
+      ],
+      "legendary": [
+        {
+          "name": "Sevimli Efsanevi Zırh Nabzı",
+          "genIndex": 1
+        },
+        {
+          "name": "İri Efsanevi Zırh Kölesi",
+          "genIndex": 2
+        },
+        {
+          "name": "Buzlu Efsanevi Zırh Kölesi",
+          "genIndex": 3
+        },
+        {
+          "name": "Karanlık Efsanevi Zırh Pençesi",
+          "genIndex": 4
+        },
+        {
+          "name": "Fırtınalı Efsanevi Zırh Gölgesi",
+          "genIndex": 5
+        },
+        {
+          "name": "Dev Efsanevi Zırh Gücü",
+          "genIndex": 6
+        },
+        {
+          "name": "Kömürlü Efsanevi Zırh Yırtıcısı",
+          "genIndex": 7
+        },
+        {
+          "name": "Yıldızlı Efsanevi Zırh Koruk",
+          "genIndex": 8
+        },
+        {
+          "name": "Kadim Efsanevi Zırh Kölesi",
+          "genIndex": 9
+        },
+        {
+          "name": "Sıcak Efsanevi Zırh Izdırabı",
+          "genIndex": 10
+        },
+        {
+          "name": "Kömürlü Efsanevi Zırh Rüzgarı",
+          "genIndex": 11
+        },
+        {
+          "name": "Gölgeli Efsanevi Zırh Gözcüsü",
+          "genIndex": 12
+        },
+        {
+          "name": "Fırtınalı Efsanevi Zırh Ayini",
+          "genIndex": 13
+        },
+        {
+          "name": "Narin Efsanevi Zırh İzleri",
+          "genIndex": 14
+        },
+        {
+          "name": "Tüylü Efsanevi Zırh Izdırabı",
+          "genIndex": 15
+        },
+        {
+          "name": "İri Efsanevi Zırh Ateşi",
+          "genIndex": 16
+        },
+        {
+          "name": "Yırtıcı Efsanevi Zırh Ruhu",
+          "genIndex": 17
+        },
+        {
+          "name": "Cinli Efsanevi Zırh Köprüsü",
+          "genIndex": 18
+        },
+        {
+          "name": "Orman Efsanevi Zırh Kılıcı",
+          "genIndex": 19
+        },
+        {
+          "name": "Tüylü Efsanevi Zırh Ruhu",
+          "genIndex": 20
+        },
+        {
+          "name": "Ayışığı Efsanevi Zırh Köprüsü",
+          "genIndex": 21
+        },
+        {
+          "name": "İri Efsanevi Zırh Yırtıcısı",
+          "genIndex": 22
+        },
+        {
+          "name": "Kıvrak Efsanevi Zırh Sonsuzu",
+          "genIndex": 23
+        },
+        {
+          "name": "Dev Efsanevi Zırh Damlacığı",
+          "genIndex": 24
+        },
+        {
+          "name": "Kristalli Efsanevi Zırh Sonsuzu",
+          "genIndex": 25
+        },
+        {
+          "name": "Şimşekli Efsanevi Zırh Gözcüsü",
+          "genIndex": 26
+        },
+        {
+          "name": "Kadim Efsanevi Zırh Kökeni",
+          "genIndex": 27
+        },
+        {
+          "name": "Ateşli Efsanevi Zırh Hiddeti",
+          "genIndex": 28
+        },
+        {
+          "name": "Kristalli Efsanevi Zırh Yankısı",
+          "genIndex": 29
+        },
+        {
+          "name": "Rüzgarlı Efsanevi Zırh Kuyruğu",
+          "genIndex": 30
+        },
+        {
+          "name": "Sessiz Efsanevi Zırh Gözcüsü",
+          "genIndex": 31
+        },
+        {
+          "name": "Süratli Efsanevi Zırh Buzulu",
+          "genIndex": 32
+        },
+        {
+          "name": "Narin Efsanevi Zırh Pençesi",
+          "genIndex": 33
+        },
+        {
+          "name": "Soğuk Efsanevi Zırh Şarkısı",
+          "genIndex": 34
+        },
+        {
+          "name": "Deniz Efsanevi Zırh Nefesi",
+          "genIndex": 35
+        },
+        {
+          "name": "Sessiz Efsanevi Zırh Hiddeti",
+          "genIndex": 36
+        },
+        {
+          "name": "Gölgeli Efsanevi Zırh Büyüsü",
+          "genIndex": 37
+        },
+        {
+          "name": "Cinli Efsanevi Zırh Yırtıcısı",
+          "genIndex": 38
+        },
+        {
+          "name": "Uçan Efsanevi Zırh Zirvesi",
+          "genIndex": 39
+        },
+        {
+          "name": "Uçan Efsanevi Zırh Büyüsü",
+          "genIndex": 40
+        },
+        {
+          "name": "Yırtıcı Efsanevi Zırh Nabzı",
+          "genIndex": 41
+        },
+        {
+          "name": "Fırtınalı Efsanevi Zırh İntikamı",
+          "genIndex": 42
+        },
+        {
+          "name": "Kutsal Efsanevi Zırh Kuyruğu",
+          "genIndex": 43
+        },
+        {
+          "name": "Ayışığı Efsanevi Zırh Hiddeti",
+          "genIndex": 44
+        },
+        {
+          "name": "Demirli Efsanevi Zırh Nidası",
+          "genIndex": 45
+        },
+        {
+          "name": "Tüylü Efsanevi Zırh Kılıcı",
+          "genIndex": 46
+        },
+        {
+          "name": "Orman Efsanevi Zırh Büyüsü",
+          "genIndex": 47
+        },
+        {
+          "name": "Kömürlü Efsanevi Zırh Kaderi",
+          "genIndex": 48
+        },
+        {
+          "name": "Çelik Efsanevi Zırh Gücü",
+          "genIndex": 49
+        },
+        {
+          "name": "Demirli Efsanevi Zırh Gücü",
+          "genIndex": 50
+        }
+      ]
+    },
+    "WEAPON_OF_MAGIC": {
+      "common": [
+        {
+          "name": "Göksel Çubuk Gücü",
+          "genIndex": 1
+        },
+        {
+          "name": "Buzlu Çubuk Köprüsü",
+          "genIndex": 2
+        },
+        {
+          "name": "Ayışığı Çubuk Yırtıcısı",
+          "genIndex": 3
+        },
+        {
+          "name": "Cinli Çubuk Sığınağı",
+          "genIndex": 4
+        },
+        {
+          "name": "Zehirli Çubuk İzleri",
+          "genIndex": 5
+        },
+        {
+          "name": "Narin Çubuk Ayini",
+          "genIndex": 6
+        },
+        {
+          "name": "Azgın Çubuk Kaderi",
+          "genIndex": 7
+        },
+        {
+          "name": "Kristalli Çubuk Kökeni",
+          "genIndex": 8
+        },
+        {
+          "name": "Hızlı Çubuk Gölgesi",
+          "genIndex": 9
+        },
+        {
+          "name": "Deniz Çubuk Koruk",
+          "genIndex": 10
+        },
+        {
+          "name": "Kıvrak Çubuk Rüzgarı",
+          "genIndex": 11
+        },
+        {
+          "name": "Göksel Çubuk Köprüsü",
+          "genIndex": 12
+        },
+        {
+          "name": "Uzun Çubuk Koruyucusu",
+          "genIndex": 13
+        },
+        {
+          "name": "Ateşli Çubuk Kuyruğu",
+          "genIndex": 14
+        },
+        {
+          "name": "Fırtınalı Çubuk Sığınağı",
+          "genIndex": 15
+        },
+        {
+          "name": "Ayışığı Çubuk Kabuğu",
+          "genIndex": 16
+        },
+        {
+          "name": "Fırtınalı Çubuk Ruhu",
+          "genIndex": 17
+        },
+        {
+          "name": "Kömürlü Çubuk Yolu",
+          "genIndex": 18
+        },
+        {
+          "name": "Cinli Çubuk İzleri",
+          "genIndex": 19
+        },
+        {
+          "name": "Çöl Çubuk Buzulu",
+          "genIndex": 20
+        },
+        {
+          "name": "Azgın Çubuk Hiddeti",
+          "genIndex": 21
+        },
+        {
+          "name": "Kömürlü Çubuk Sonsuzu",
+          "genIndex": 22
+        },
+        {
+          "name": "Zehirli Çubuk Ruhu",
+          "genIndex": 23
+        },
+        {
+          "name": "Çelik Çubuk Koruyucusu",
+          "genIndex": 24
+        },
+        {
+          "name": "Görkemli Çubuk Sığınağı",
+          "genIndex": 25
+        },
+        {
+          "name": "Orman Çubuk Gözcüsü",
+          "genIndex": 26
+        },
+        {
+          "name": "Sıcak Çubuk Kölesi",
+          "genIndex": 27
+        },
+        {
+          "name": "Görkemli Çubuk Hiddeti",
+          "genIndex": 28
+        },
+        {
+          "name": "Zehirli Çubuk Izdırabı",
+          "genIndex": 29
+        },
+        {
+          "name": "Uçan Çubuk Kuyruğu",
+          "genIndex": 30
+        },
+        {
+          "name": "Deniz Çubuk Denizatı",
+          "genIndex": 31
+        },
+        {
+          "name": "Zehirli Çubuk Köprüsü",
+          "genIndex": 32
+        },
+        {
+          "name": "Şimşekli Çubuk Koruk",
+          "genIndex": 33
+        },
+        {
+          "name": "Cinli Çubuk Fısıltısı",
+          "genIndex": 34
+        },
+        {
+          "name": "Kadim Çubuk Köprüsü",
+          "genIndex": 35
+        },
+        {
+          "name": "Kristalli Çubuk Ateşi",
+          "genIndex": 36
+        },
+        {
+          "name": "Tüylü Çubuk Kölesi",
+          "genIndex": 37
+        },
+        {
+          "name": "Parlak Çubuk Fısıltısı",
+          "genIndex": 38
+        },
+        {
+          "name": "Narin Çubuk Sonsuzu",
+          "genIndex": 39
+        },
+        {
+          "name": "Sessiz Çubuk İntikamı",
+          "genIndex": 40
+        },
+        {
+          "name": "Dev Çubuk Nefesi",
+          "genIndex": 41
+        },
+        {
+          "name": "Zehirli Çubuk Kükremesi",
+          "genIndex": 42
+        },
+        {
+          "name": "Parlak Çubuk Nabzı",
+          "genIndex": 43
+        },
+        {
+          "name": "Sevimli Çubuk Kılıcı",
+          "genIndex": 44
+        },
+        {
+          "name": "Ateşli Çubuk Sığınağı",
+          "genIndex": 45
+        },
+        {
+          "name": "Gölgeli Çubuk Köprüsü",
+          "genIndex": 46
+        },
+        {
+          "name": "Ayışığı Çubuk Buzulu",
+          "genIndex": 47
+        },
+        {
+          "name": "Orman Çubuk Yankısı",
+          "genIndex": 48
+        },
+        {
+          "name": "Kömürlü Çubuk Kalbi",
+          "genIndex": 49
+        },
+        {
+          "name": "Azgın Çubuk Nefesi",
+          "genIndex": 50
+        }
+      ],
+      "rare": [
+        {
+          "name": "Sıcak Asa Yolu",
+          "genIndex": 1
+        },
+        {
+          "name": "Sıcak Asa Kaderi",
+          "genIndex": 2
+        },
+        {
+          "name": "Kıvrak Asa Nabzı",
+          "genIndex": 3
+        },
+        {
+          "name": "Azgın Asa Sığınağı",
+          "genIndex": 4
+        },
+        {
+          "name": "Uçan Asa Denizatı",
+          "genIndex": 5
+        },
+        {
+          "name": "Karanlık Asa Nabzı",
+          "genIndex": 6
+        },
+        {
+          "name": "Kadim Asa Yolu",
+          "genIndex": 7
+        },
+        {
+          "name": "Çöl Asa Şarkısı",
+          "genIndex": 8
+        },
+        {
+          "name": "Rüzgarlı Asa Damlacığı",
+          "genIndex": 9
+        },
+        {
+          "name": "Uzun Asa Sonsuzu",
+          "genIndex": 10
+        },
+        {
+          "name": "Şimşekli Asa Pençesi",
+          "genIndex": 11
+        },
+        {
+          "name": "Derin Asa Kılıcı",
+          "genIndex": 12
+        },
+        {
+          "name": "Süratli Asa Nabzı",
+          "genIndex": 13
+        },
+        {
+          "name": "Şimşekli Asa Dönencesi",
+          "genIndex": 14
+        },
+        {
+          "name": "Çelik Asa Gölgesi",
+          "genIndex": 15
+        },
+        {
+          "name": "Kutsal Asa Ayini",
+          "genIndex": 16
+        },
+        {
+          "name": "Hızlı Asa Büyüsü",
+          "genIndex": 17
+        },
+        {
+          "name": "Yırtıcı Asa Damlacığı",
+          "genIndex": 18
+        },
+        {
+          "name": "Kristalli Asa Yankısı",
+          "genIndex": 19
+        },
+        {
+          "name": "Cinli Asa Ateşi",
+          "genIndex": 20
+        },
+        {
+          "name": "Fırtınalı Asa Dönencesi",
+          "genIndex": 21
+        },
+        {
+          "name": "Ayışığı Asa Köprüsü",
+          "genIndex": 22
+        },
+        {
+          "name": "Cinli Asa Ruhu",
+          "genIndex": 23
+        },
+        {
+          "name": "Göksel Asa İntikamı",
+          "genIndex": 24
+        },
+        {
+          "name": "Rüzgarlı Asa Çiçeği",
+          "genIndex": 25
+        },
+        {
+          "name": "Yeraltı Asa İzci",
+          "genIndex": 26
+        },
+        {
+          "name": "Kömürlü Asa Ayini",
+          "genIndex": 27
+        },
+        {
+          "name": "Deniz Asa Ayini",
+          "genIndex": 28
+        },
+        {
+          "name": "Azgın Asa Huzuru",
+          "genIndex": 29
+        },
+        {
+          "name": "Deniz Asa Damlacığı",
+          "genIndex": 30
+        },
+        {
+          "name": "Gölgeli Asa Kölesi",
+          "genIndex": 31
+        },
+        {
+          "name": "Gölgeli Asa Gölgesi",
+          "genIndex": 32
+        },
+        {
+          "name": "Buzlu Asa Sonsuzu",
+          "genIndex": 33
+        },
+        {
+          "name": "Parlak Asa Büyüsü",
+          "genIndex": 34
+        },
+        {
+          "name": "Buzlu Asa Sığınağı",
+          "genIndex": 35
+        },
+        {
+          "name": "Sıcak Asa Koruk",
+          "genIndex": 36
+        },
+        {
+          "name": "Derin Asa Izdırabı",
+          "genIndex": 37
+        },
+        {
+          "name": "Kıvrak Asa Nefesi",
+          "genIndex": 38
+        },
+        {
+          "name": "Yıldızlı Asa Gözcüsü",
+          "genIndex": 39
+        },
+        {
+          "name": "Kıvrak Asa Zirvesi",
+          "genIndex": 40
+        },
+        {
+          "name": "Kutsal Asa Koruk",
+          "genIndex": 41
+        },
+        {
+          "name": "Kıvrak Asa Koruyucusu",
+          "genIndex": 42
+        },
+        {
+          "name": "Süratli Asa Yırtıcısı",
+          "genIndex": 43
+        },
+        {
+          "name": "Uzun Asa Kölesi",
+          "genIndex": 44
+        },
+        {
+          "name": "Demirli Asa Zirvesi",
+          "genIndex": 45
+        },
+        {
+          "name": "Ateşli Asa Kaderi",
+          "genIndex": 46
+        },
+        {
+          "name": "Fırtınalı Asa Pençesi",
+          "genIndex": 47
+        },
+        {
+          "name": "Rüzgarlı Asa İntikamı",
+          "genIndex": 48
+        },
+        {
+          "name": "Gölgeli Asa Kökeni",
+          "genIndex": 49
+        },
+        {
+          "name": "Şimşekli Asa Kuyruğu",
+          "genIndex": 50
+        }
+      ],
+      "epic": [
+        {
+          "name": "Gölgeli Kadim Asa Izdırabı",
+          "genIndex": 1
+        },
+        {
+          "name": "Fırtınalı Kadim Asa Kaderi",
+          "genIndex": 2
+        },
+        {
+          "name": "Kıvrak Kadim Asa Köprüsü",
+          "genIndex": 3
+        },
+        {
+          "name": "Yırtıcı Kadim Asa Kölesi",
+          "genIndex": 4
+        },
+        {
+          "name": "Narin Kadim Asa Kaderi",
+          "genIndex": 5
+        },
+        {
+          "name": "Ateşli Kadim Asa Gölgesi",
+          "genIndex": 6
+        },
+        {
+          "name": "Soğuk Kadim Asa Kökeni",
+          "genIndex": 7
+        },
+        {
+          "name": "Göksel Kadim Asa İntikamı",
+          "genIndex": 8
+        },
+        {
+          "name": "Kristalli Kadim Asa Kılıcı",
+          "genIndex": 9
+        },
+        {
+          "name": "Uzun Kadim Asa Mirası",
+          "genIndex": 10
+        },
+        {
+          "name": "Karanlık Kadim Asa Zamanı",
+          "genIndex": 11
+        },
+        {
+          "name": "Ateşli Kadim Asa Kılıcı",
+          "genIndex": 12
+        },
+        {
+          "name": "Kutsal Kadim Asa Kölesi",
+          "genIndex": 13
+        },
+        {
+          "name": "Parlak Kadim Asa Kaderi",
+          "genIndex": 14
+        },
+        {
+          "name": "Parlak Kadim Asa Gölgesi",
+          "genIndex": 15
+        },
+        {
+          "name": "Şimşekli Kadim Asa İntikamı",
+          "genIndex": 16
+        },
+        {
+          "name": "Yeraltı Kadim Asa Kükremesi",
+          "genIndex": 17
+        },
+        {
+          "name": "Kömürlü Kadim Asa Nefesi",
+          "genIndex": 18
+        },
+        {
+          "name": "Uçan Kadim Asa Zamanı",
+          "genIndex": 19
+        },
+        {
+          "name": "Narin Kadim Asa Kölesi",
+          "genIndex": 20
+        },
+        {
+          "name": "Fırtınalı Kadim Asa Denizatı",
+          "genIndex": 21
+        },
+        {
+          "name": "Kömürlü Kadim Asa Yırtıcısı",
+          "genIndex": 22
+        },
+        {
+          "name": "Sıcak Kadim Asa Sığınağı",
+          "genIndex": 23
+        },
+        {
+          "name": "Çöl Kadim Asa Gölgesi",
+          "genIndex": 24
+        },
+        {
+          "name": "Kadim Kadim Asa Kaderi",
+          "genIndex": 25
+        },
+        {
+          "name": "Zehirli Kadim Asa Dönencesi",
+          "genIndex": 26
+        },
+        {
+          "name": "Rüzgarlı Kadim Asa Nabzı",
+          "genIndex": 27
+        },
+        {
+          "name": "Kristalli Kadim Asa Çiçeği",
+          "genIndex": 28
+        },
+        {
+          "name": "Yıldızlı Kadim Asa Ayini",
+          "genIndex": 29
+        },
+        {
+          "name": "Şimşekli Kadim Asa Gücü",
+          "genIndex": 30
+        },
+        {
+          "name": "Rüzgarlı Kadim Asa Sonsuzu",
+          "genIndex": 31
+        },
+        {
+          "name": "Demirli Kadim Asa Nefesi",
+          "genIndex": 32
+        },
+        {
+          "name": "Kıvrak Kadim Asa Kalbi",
+          "genIndex": 33
+        },
+        {
+          "name": "Uçan Kadim Asa Kalbi",
+          "genIndex": 34
+        },
+        {
+          "name": "Orman Kadim Asa Fısıltısı",
+          "genIndex": 35
+        },
+        {
+          "name": "Ayışığı Kadim Asa Nefesi",
+          "genIndex": 36
+        },
+        {
+          "name": "Sevimli Kadim Asa Denizatı",
+          "genIndex": 37
+        },
+        {
+          "name": "Demirli Kadim Asa Kuyruğu",
+          "genIndex": 38
+        },
+        {
+          "name": "İri Kadim Asa Ruhu",
+          "genIndex": 39
+        },
+        {
+          "name": "Kömürlü Kadim Asa Pençesi",
+          "genIndex": 40
+        },
+        {
+          "name": "Görkemli Kadim Asa Kükremesi",
+          "genIndex": 41
+        },
+        {
+          "name": "Gölgeli Kadim Asa Büyüsü",
+          "genIndex": 42
+        },
+        {
+          "name": "Süratli Kadim Asa İzleri",
+          "genIndex": 43
+        },
+        {
+          "name": "Rüzgarlı Kadim Asa Gölgesi",
+          "genIndex": 44
+        },
+        {
+          "name": "Yıldızlı Kadim Asa Sığınağı",
+          "genIndex": 45
+        },
+        {
+          "name": "Kristalli Kadim Asa Zamanı",
+          "genIndex": 46
+        },
+        {
+          "name": "Ateşli Kadim Asa Yolu",
+          "genIndex": 47
+        },
+        {
+          "name": "Cinli Kadim Asa Buzulu",
+          "genIndex": 48
+        },
+        {
+          "name": "Ayışığı Kadim Asa Köprüsü",
+          "genIndex": 49
+        },
+        {
+          "name": "Çelik Kadim Asa Kaderi",
+          "genIndex": 50
+        }
+      ],
+      "legendary": [
+        {
+          "name": "Demirli Kozmik Asa Gölgesi",
+          "genIndex": 1
+        },
+        {
+          "name": "Deniz Kozmik Asa Nefesi",
+          "genIndex": 2
+        },
+        {
+          "name": "Kıvrak Kozmik Asa Yolu",
+          "genIndex": 3
+        },
+        {
+          "name": "Soğuk Kozmik Asa Fısıltısı",
+          "genIndex": 4
+        },
+        {
+          "name": "Uzun Kozmik Asa Gölgesi",
+          "genIndex": 5
+        },
+        {
+          "name": "Dev Kozmik Asa Ateşi",
+          "genIndex": 6
+        },
+        {
+          "name": "Kömürlü Kozmik Asa Köprüsü",
+          "genIndex": 7
+        },
+        {
+          "name": "Zehirli Kozmik Asa Hiddeti",
+          "genIndex": 8
+        },
+        {
+          "name": "Soğuk Kozmik Asa Büyüsü",
+          "genIndex": 9
+        },
+        {
+          "name": "Kıvrak Kozmik Asa Kabuğu",
+          "genIndex": 10
+        },
+        {
+          "name": "Çelik Kozmik Asa Zirvesi",
+          "genIndex": 11
+        },
+        {
+          "name": "Deniz Kozmik Asa Gözcüsü",
+          "genIndex": 12
+        },
+        {
+          "name": "Rüzgarlı Kozmik Asa Sonsuzu",
+          "genIndex": 13
+        },
+        {
+          "name": "Yıldızlı Kozmik Asa Köprüsü",
+          "genIndex": 14
+        },
+        {
+          "name": "Buzlu Kozmik Asa Pençesi",
+          "genIndex": 15
+        },
+        {
+          "name": "Demirli Kozmik Asa Kölesi",
+          "genIndex": 16
+        },
+        {
+          "name": "Demirli Kozmik Asa Kökeni",
+          "genIndex": 17
+        },
+        {
+          "name": "Dev Kozmik Asa Kökeni",
+          "genIndex": 18
+        },
+        {
+          "name": "Dev Kozmik Asa Kalbi",
+          "genIndex": 19
+        },
+        {
+          "name": "Azgın Kozmik Asa Yırtıcısı",
+          "genIndex": 20
+        },
+        {
+          "name": "Süratli Kozmik Asa Yankısı",
+          "genIndex": 21
+        },
+        {
+          "name": "Kömürlü Kozmik Asa Kökeni",
+          "genIndex": 22
+        },
+        {
+          "name": "Deniz Kozmik Asa Hiddeti",
+          "genIndex": 23
+        },
+        {
+          "name": "Narin Kozmik Asa Buzulu",
+          "genIndex": 24
+        },
+        {
+          "name": "Kristalli Kozmik Asa Şarkısı",
+          "genIndex": 25
+        },
+        {
+          "name": "Uzun Kozmik Asa Şarkısı",
+          "genIndex": 26
+        },
+        {
+          "name": "Deniz Kozmik Asa Sığınağı",
+          "genIndex": 27
+        },
+        {
+          "name": "Zehirli Kozmik Asa Ruhu",
+          "genIndex": 28
+        },
+        {
+          "name": "Cinli Kozmik Asa Sığınağı",
+          "genIndex": 29
+        },
+        {
+          "name": "Çelik Kozmik Asa Dönencesi",
+          "genIndex": 30
+        },
+        {
+          "name": "Cinli Kozmik Asa Kükremesi",
+          "genIndex": 31
+        },
+        {
+          "name": "Görkemli Kozmik Asa Nidası",
+          "genIndex": 32
+        },
+        {
+          "name": "Azgın Kozmik Asa Dönencesi",
+          "genIndex": 33
+        },
+        {
+          "name": "Sıcak Kozmik Asa Mirası",
+          "genIndex": 34
+        },
+        {
+          "name": "Azgın Kozmik Asa İzleri",
+          "genIndex": 35
+        },
+        {
+          "name": "Çelik Kozmik Asa Kükremesi",
+          "genIndex": 36
+        },
+        {
+          "name": "Yırtıcı Kozmik Asa Zirvesi",
+          "genIndex": 37
+        },
+        {
+          "name": "Göksel Kozmik Asa Kölesi",
+          "genIndex": 38
+        },
+        {
+          "name": "Çelik Kozmik Asa Yankısı",
+          "genIndex": 39
+        },
+        {
+          "name": "Orman Kozmik Asa Zamanı",
+          "genIndex": 40
+        },
+        {
+          "name": "Yıldızlı Kozmik Asa Zamanı",
+          "genIndex": 41
+        },
+        {
+          "name": "Şimşekli Kozmik Asa Nabzı",
+          "genIndex": 42
+        },
+        {
+          "name": "Kutsal Kozmik Asa Köprüsü",
+          "genIndex": 43
+        },
+        {
+          "name": "Zehirli Kozmik Asa İntikamı",
+          "genIndex": 44
+        },
+        {
+          "name": "Sıcak Kozmik Asa Kuyruğu",
+          "genIndex": 45
+        },
+        {
+          "name": "Tüylü Kozmik Asa İntikamı",
+          "genIndex": 46
+        },
+        {
+          "name": "Kristalli Kozmik Asa Sığınağı",
+          "genIndex": 47
+        },
+        {
+          "name": "Hızlı Kozmik Asa Gölgesi",
+          "genIndex": 48
+        },
+        {
+          "name": "Yırtıcı Kozmik Asa Sığınağı",
+          "genIndex": 49
+        },
+        {
+          "name": "Kristalli Kozmik Asa Nidası",
+          "genIndex": 50
+        }
+      ]
+    }
+  },
+  "YTDO3N": {
+    "id": "YTDO3N",
+    "rarity": "common",
+    "items": [
+      "Tahta Kılıç",
+      "Hırka",
+      "Çubuk"
+    ],
+    "createdAt": 1756570560562,
+    "owner": "707269247532793858",
+    "equippedTo": {
+      "userId": "707269247532793858",
+      "slot": 1
+    }
+  },
+  "HJ0RBQ": {
+    "id": "HJ0RBQ",
+    "rarity": "common",
+    "items": [
+      "Tahta Kılıç",
+      "Hırka",
+      "Çubuk"
+    ],
+    "createdAt": 1756570738459,
+    "owner": "707269247532793858",
+    "equippedTo": {
+      "userId": "707269247532793858",
+      "slot": 2
+    }
+  },
+  "JLEVBB": {
+    "id": "JLEVBB",
+    "rarity": "common",
+    "items": [
+      "Tahta Kılıç",
+      "Hırka",
+      "Çubuk"
+    ],
+    "createdAt": 1756570769785,
+    "owner": "707269247532793858",
+    "equippedTo": {
+      "userId": "707269247532793858",
+      "slot": 3
+    }
+  },
+  "9S7WRM": {
+    "id": "9S7WRM",
+    "rarity": "common",
+    "items": [
+      "Tahta Kılıç",
+      "Hırka",
+      "Çubuk"
+    ],
+    "createdAt": 1757248728228,
+    "owner": "707269247532793858"
+  },
+  "TCNXGH": {
+    "id": "TCNXGH",
+    "rarity": "common",
+    "items": [
+      "Tahta Kılıç",
+      "Hırka",
+      "Çubuk"
+    ],
+    "createdAt": 1757249358765,
+    "owner": "707269247532793858"
+  }
+}

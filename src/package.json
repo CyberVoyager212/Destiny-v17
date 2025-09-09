@@ -1,0 +1,35 @@
+{
+  "name": "destiny",
+  "version": "1.0.0",
+  "description": "A Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "YourNameHere",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.8.0",
+    "axios": "^1.10.0",
+    "better-sqlite3": "^11.10.0",
+    "canvas": "^3.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "discord-image-generation": "^1.4.25",
+    "discord.js": "^13.17.1",
+    "express": "^5.1.0",
+    "figlet": "",
+    "mathjs": "^14.5.3",
+    "moment": "^2.30.1",
+    "moment-timezone": "^0.6.0",
+    "ms": "^2.1.3",
+    "quick.db": "^9.1.7",
+    "quick.eco": "^6.0.0",
+    "superagent": "^10.2.1",
+    "translate-google": "",
+    "undici": "^5.29.0"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
