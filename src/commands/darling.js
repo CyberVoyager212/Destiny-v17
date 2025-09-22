@@ -77,7 +77,6 @@ module.exports = {
         );
       }
 
-      // Başlangıç geçmişi; keepHistory true ama history görüntüleme UI'sı yok
       conversationHistories[channel.id] = {
         messages: [
           {
