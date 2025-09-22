@@ -10,7 +10,6 @@ exports.help = {
   category: "Eğlence",
   cooldown: 10,
 };
-
 async function fetchNameMeaning(name, API_KEY) {
   const response = await axios.post(
     "https://openrouter.ai/api/v1/chat/completions",
