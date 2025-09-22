@@ -10,7 +10,6 @@ exports.help = {
   category: "Eğlence",
   cooldown: 10,
 };
-
 async function fetchAnimeFromOpenRouter(db, userId, OPENROUTER_API_KEY) {
   const previouslyRecommended = (await db.get(`animeRecommended_${userId}`)) || [];
 
