@@ -52,4 +52,4 @@ Aşağıda sadece **kurulum rehberi** ve önemli notlar mevcut.
 
 ---
 
-Botu gönül rahatlığıyla kullanabilirsiniz. 🎉
+Botu gönül rahatlığıyla kullanabilirsiniz. 🎉 
