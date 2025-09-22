@@ -7,7 +7,7 @@ if "%ROOT:~-1%"=="\" set "ROOT=%ROOT:~0,-1%"
 set "SRC=%ROOT%\src"
 set "NODE_VER=18.20.8"
 
-:: nvm varsa uygun node sürümünü kullan / yükle
+:: nvm varsa uygun node sÃ¼rÃ¼mÃ¼nÃ¼ kullan / yÃ¼kle
 where nvm >nul 2>&1
 if %errorlevel% equ 0 (
   nvm ls | findstr "%NODE_VER%" >nul 2>&1
@@ -17,9 +17,7 @@ if %errorlevel% equ 0 (
   nvm use %NODE_VER% >nul 2>&1
 )
 
-:: PowerShell'i yeni pencerede çal??t?r (bu .bat hemen kapan?r)
+:: PowerShell'i yeni pencerede Ã§al??t?r (bu .bat hemen kapan?r)
 start "" powershell -ExecutionPolicy Bypass -File "src\run_launcher.ps1"
 
 exit /b 0
-
-
