@@ -30,7 +30,6 @@ module.exports = async (client, oldState, newState) => {
       }
       return;
     }
-
     const guild = newState.guild || oldState.guild;
     if (!guild) return;
 
