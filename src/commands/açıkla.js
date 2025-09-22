@@ -23,7 +23,6 @@ exports.execute = async (client, message, args) => {
       );
       return;
     }
-
     const sub = args[0] ? args[0].toLowerCase() : null;
 
     if (sub === 'ayarla') {
