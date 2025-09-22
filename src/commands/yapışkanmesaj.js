@@ -33,7 +33,6 @@ exports.execute = async (client, message, args) => {
         `${emojis.bot.error} | **${message.member.displayName}**, yapışkan mesaj içeriğini yazmayı unuttun qwq~`
       );
     }
-
     try {
       const sent = await channel.send(content);
       await db.set(`stickyMessage_${channel.id}`, {
