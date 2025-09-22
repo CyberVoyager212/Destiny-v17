@@ -64,7 +64,6 @@ module.exports = {
     const channelName =
       sanitizeChannelName(`aiticket-${rawName}`) + `-${member.id.slice(0, 6)}`;
 
-    // varolan bir ticket kontrolü
     const existing = guild.channels.cache.find(
       (c) =>
         c.name.startsWith(
