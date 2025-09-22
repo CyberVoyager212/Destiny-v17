@@ -23,7 +23,6 @@ module.exports.execute = async (client, message, args) => {
     );
   }
 
-  // --- BOM işlemleri ---
   if (action === 'bom') {
     if (type === 'oluştur') {
       try {
