@@ -12,7 +12,6 @@ const KEEP_LOGS_LOCAL = true;
 if (KEEP_LOGS_LOCAL) {
   try { if (!fs.existsSync('./logs')) fs.mkdirSync('./logs'); } catch (e) { console.error('Log klasörü oluşturulamadı', e); }
 }
-
 const ISSUE_CATALOG = [
   'MissingToken', 'InvalidToken', 'MissingIntents', 'MissingPermissions', 'RateLimit',
   'GatewayDisconnect', 'ShardDisconnect', 'HTTP500', 'UnknownMessage', 'UnknownUser',
