@@ -8,7 +8,6 @@ module.exports = async (client, member) => {
   let text = cfg.exitMessage
     .replace(/\$etiket/g, member.user.tag)
     .replace(/\$sayı/g, member.guild.memberCount);
-
   let embed;
   const m = text.match(/\$embed;(.+)/);
   if (m) {
