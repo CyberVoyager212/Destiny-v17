@@ -13,7 +13,6 @@ exports.help = {
   category: "Eğlence",
   cooldown: 5,
 };
-
 exports.execute = async (client, message, args) => {
   try {
     const res = await fetch("https://meme-api.com/gimme");
