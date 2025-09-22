@@ -9,7 +9,6 @@ const CONFIG = {
   TICK_INTERVAL_MS: 5 * 60 * 1000,
   TICK_MAX_MOVE: 0.12
 };
-
 function chooseEmoji(amount) {
   if (amount > 100000) return emojis.money.high;
   if (amount > 10000) return emojis.money.medium;
