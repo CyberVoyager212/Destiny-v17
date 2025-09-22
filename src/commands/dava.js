@@ -9,7 +9,6 @@ try {
 } catch (e) {
   emojis = { bot: { succes: "✅", error: "❌" } };
 }
-
 exports.help = {
   name: "dava",
   description: "Dedektiflik oyununu başlatır ve bir davayı çözüme kavuşturmanı ister.",
