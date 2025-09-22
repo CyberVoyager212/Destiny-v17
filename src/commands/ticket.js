@@ -16,7 +16,6 @@ exports.help = {
   category: "Araçlar",
   cooldown: 10,
 };
-
 exports.execute = async (client, message, args) => {
   const guild = message.guild;
   const user = message.author;
