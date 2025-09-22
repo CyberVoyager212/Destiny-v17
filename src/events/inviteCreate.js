@@ -8,6 +8,7 @@ module.exports = async (client, invite) => {
         inviter: i.inviter?.id,
       });
     });
+
     client.invites.set(invite.guild.id, inviteMap);
   } catch (err) {
     console.error("[InviteCreate] Hata:", err);
