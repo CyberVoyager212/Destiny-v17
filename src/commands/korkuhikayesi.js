@@ -49,7 +49,6 @@ async function getHorrorStory(API_KEY) {
     return null;
   }
 }
-
 exports.execute = async (client, message, args) => {
   try {
     const story = await getHorrorStory(client.config.OPENROUTER_API_KEY);
