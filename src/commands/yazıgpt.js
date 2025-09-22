@@ -10,7 +10,6 @@ const axios = require("axios");
 const config = require("../botConfig.js");
 const emojis = require("../emoji.json");
 
-// --- CONFIG ---
 const botname = config.botname || "Bot";
 const conversationHistories = {}; // kanalId => { ... }
 const OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions";
