@@ -5,7 +5,6 @@ const axios = require('axios');
 const emojis = require('../emoji.json');
 
 const delay = (ms) => new Promise((r) => setTimeout(r, ms));
-
 function levenshtein(a, b) {
   const dp = Array(b.length + 1)
     .fill(null)
