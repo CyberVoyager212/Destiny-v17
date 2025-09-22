@@ -9,7 +9,6 @@ module.exports = async (client, message) => {
       minute: "2-digit",
       second: "2-digit",
     });
-
     let displayName = message.member?.displayName;
     if (!displayName) {
       try {
