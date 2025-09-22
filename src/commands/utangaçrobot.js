@@ -1,7 +1,6 @@
 const axios = require("axios");
 const botConfig = require("../botConfig.js");
 const emojis = require("../emoji.json");
-
 const prefix = [
   "H-hewwo?? ",
   "O-oh... uwu? ",
