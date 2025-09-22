@@ -5,6 +5,7 @@ module.exports = async (client, guild) => {
   const toplamSunucu = client.guilds.cache.size;
   const toplamKullanici = client.users.cache.size;
 
+
   const EmbedCikis = new MessageEmbed()
     .setColor("RED")
     .setTitle(`❌ Bir Sunucudan Ayrıldım!`)
