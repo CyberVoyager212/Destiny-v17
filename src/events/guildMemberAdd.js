@@ -7,7 +7,6 @@ module.exports = async (client, member) => {
   const ksAutoName = await client.db.get(`autoName_${guildId}`);
 
   const ggsConfig = await client.db.get(`welcomegoodbye_${guildId}`);
-
   let unregRoleId = ksUnregRoleId;
   if (
     !unregRoleId &&
