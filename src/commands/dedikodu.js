@@ -11,7 +11,6 @@ module.exports.help = {
   category: "Eğlence",
   cooldown: 10,
 };
-
 module.exports.execute = async (client, message, args) => {
   const targetUser = args.join(" ");
   if (!targetUser)
