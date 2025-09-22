@@ -21,7 +21,6 @@ module.exports = {
         `${message.author}, bu komutu kullanmak için \`Manage Channels\` veya \`Manage Guild\` yetkisine sahip olmalısın.`
       );
     }
-
     const sub = args[0];
     if (!sub || sub !== 'setup') {
       return message.channel.send(
