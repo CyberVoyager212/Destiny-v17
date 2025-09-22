@@ -22,7 +22,6 @@ const CONFIG = {
     { symbol: 'XRP', name: 'XRP', price: 0.8, supply: 100000000000 },
   ],
 };
-
 function formatMoneyTR(n) {
   if (n === null || n === undefined) return '0';
   const num = Number(n);
