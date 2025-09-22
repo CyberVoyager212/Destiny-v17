@@ -7,7 +7,6 @@ const botConfig = (() => {
     return {};
   }
 })();
-
 module.exports = async (client) => {
   client.invites = new Map();
   for (const guild of client.guilds.cache.values()) {
