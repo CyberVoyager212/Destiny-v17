@@ -2,7 +2,6 @@ const { MessageEmbed } = require("discord.js");
 const axios = require("axios");
 const botConfig = require("../botConfig.js");
 const emojis = require("../emoji.json"); // emoji verilerini ekledik
-
 exports.help = {
   name: "emojiçevir",
   aliases: ["emojify"],
