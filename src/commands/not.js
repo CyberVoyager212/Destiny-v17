@@ -9,7 +9,6 @@ exports.execute = async (client, message, args) => {
     );
   }
 
-  // EKLEME
   if (subcommand.toLowerCase() === "ekle") {
     const note = args.slice(1).join(" ");
     if (!note) {
