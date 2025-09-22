@@ -3,7 +3,7 @@ const fetch = require("node-fetch");
 const emojis = require("../emoji.json");
 
 const userMemory = new Map(); // userId -> [{role, content}, ...]
-const lastInteraction = new Map(); // userId -> timestamp
+const lastInteraction = new Map(); 
 
 async function askAI(userId, userMsg, botName, OPENROUTER_API_KEY) {
   try {
