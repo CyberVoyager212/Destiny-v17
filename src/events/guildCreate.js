@@ -6,6 +6,7 @@ module.exports = async (client, guild) => {
   const toplamKullanici = client.users.cache.size;
   const botPrefix = botConfig.prefix; 
   const supportServer = botConfig.supportServer; 
+
   const EmbedGiris = new MessageEmbed()
     .setColor("GREEN")
     .setTitle(`✅ Yeni Bir Sunucuya Katıldım!`)
