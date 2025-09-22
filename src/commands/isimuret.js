@@ -17,7 +17,6 @@ async function generateName(message) {
     .filter((m) => !m.author.bot && m.id !== message.id)
     .map((m) => `Kullanıcı: ${m.content}`)
     .reverse();
-
   const aiMessages = [
     ...history.map((h) => ({ role: "user", content: h })),
     {
