@@ -7,7 +7,6 @@ const {
 
 const emojis = require("../emoji.json");
 
-// --- Yardımcı fonksiyonlar --------------------------------------------------
 function createDeck() {
   const suits = ["♠", "♥", "♦", "♣"];
   const values = [
