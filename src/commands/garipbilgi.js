@@ -9,7 +9,6 @@ exports.help = {
   category: "Eğlence",
   cooldown: 10,
 };
-
 async function fetchWeirdFactFromOpenRouter(OPENROUTER_API_KEY) {
   const messages = [
     {
