@@ -36,6 +36,7 @@ module.exports = async (client, channel) => {
       });
       await db.delete(stickyKey);
     }
+
     if (isVCTracked && newChannel.isVoice()) {
       await db.set(autoVCKey, {
         id: newChannel.id,
