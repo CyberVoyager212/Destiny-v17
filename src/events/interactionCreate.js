@@ -6,7 +6,6 @@ const {
 } = require('discord.js');
 const { QuickDB } = require('quick.db');
 const db = new QuickDB();
-
 module.exports = async (client, interaction) => {
   if (!interaction.isButton()) return;
 
