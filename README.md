@@ -1,3 +1,6 @@
+- BOTU İNDİRCEK KİŞİLER İÇİN UYARI 25.09.2025 TARİHİNDE FARKETTİĞİM PARA AKIŞI SORUNU ÇÖZÜLENE KADAR EKONOMİ KOMUTLARININ HEPSİ HATALI ÖZÜR DİLERİM
+
+
 # Discord Botu - Kurulum ve Bilgilendirme
 
 Merhaba arkadaşlar! 👋
