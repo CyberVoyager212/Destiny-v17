@@ -7,6 +7,16 @@ function chooseEmoji(amount) {
   return emojis.money.low;
 }
 
+function shuffle(arr) {
+  // Fisher-Yates
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 exports.execute = async (client, message, args) => {
   try {
     let betAmount = parseInt(args[0], 10);
@@ -47,13 +57,24 @@ Oynanan Miktar: ${betAmount} ${chooseEmoji(betAmount)}
 Kullanıcı: ${message.member.displayName}
     `);
 
+    // Küçük bekleme (animasyon için)
     await new Promise(resolve => setTimeout(resolve, 2500));
 
-    let isWinner = Math.random() < 0.5;
-    let finalSlots = isWinner
-      ? Array(3).fill(slotEmojis[Math.floor(Math.random() * slotEmojis.length)])
-      : Array.from({ length: 3 }, () => slotEmojis[Math.floor(Math.random() * slotEmojis.length)]);
+    // MODE: 1 veya 2 seçiliyor
+    const mode = Math.floor(Math.random() * 2) + 1; // 1 veya 2
 
+    let finalSlots;
+    if (mode === 1) {
+      // hepsi aynı olacak (kazanç şansı)
+      const chosen = slotEmojis[Math.floor(Math.random() * slotEmojis.length)];
+      finalSlots = [chosen, chosen, chosen];
+    } else {
+      // 3 farklı emoji - aynı olmayacak
+      // slotEmojis uzunluğu 3 olduğu için shuffle ve slice ile garantili farklı seçim yapıyoruz
+      finalSlots = shuffle(slotEmojis).slice(0, 3);
+    }
+
+    // Reveal animasyonu
     let revealedSlots = [spinningEmoji, spinningEmoji, spinningEmoji];
     for (let i = 0; i < 3; i++) {
       revealedSlots[i] = finalSlots[i];
@@ -67,9 +88,12 @@ Kullanıcı: ${message.member.displayName}
       await new Promise(resolve => setTimeout(resolve, 500));
     }
 
+    // Kazanma kontrolü: sadece tümü aynı olduğunda kazanır
+    const isWinner = finalSlots.every(s => s === finalSlots[0]);
+
     let reward = 0;
     if (isWinner) {
-      reward = betAmount * multipliers[finalSlots[0]];
+      reward = betAmount * (multipliers[finalSlots[0]] || 1);
       await client.eco.addMoney(message.author.id, reward);
     }
 
