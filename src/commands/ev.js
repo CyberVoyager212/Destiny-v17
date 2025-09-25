@@ -10,15 +10,23 @@ function chooseEmoji(amount) {
 exports.execute = async (client, message, args) => {
   let action = args[0];
   let userId = message.author.id;
-  let moneyKey = `money_${userId}`;
   let housesKey = `houses_${userId}`;
 
-  let userMoney = await client.eco.fetchMoney(userId);
-  let houses = (await client.db.get(housesKey)) || [];
+  // Güvenli bakiye çekme helper'ı
+  async function getBalance(id) {
+    const raw = await client.eco.fetchMoney(id);
+    if (raw === null || raw === undefined) return 0;
+    if (typeof raw === "object" && raw !== null && "amount" in raw) return Number(raw.amount) || 0;
+    return Number(raw) || 0;
+  }
+
+  let userMoney = await getBalance(userId);
 
   let oxyId = client.config?.ownerId;
-  let oxyKey = `money_${oxyId}`;
-  let oxyMoney = (await client.db.get(oxyKey)) || 0;
+  let oxyMoney = 0;
+  if (oxyId) oxyMoney = await getBalance(oxyId);
+
+  let houses = (await client.db.get(housesKey)) || [];
 
   if (!action) {
     return await message.channel.send(
@@ -49,6 +57,8 @@ exports.execute = async (client, message, args) => {
       price = Math.floor(price * 1.25);
     }
 
+    // Güncel kullanıcı bakiyesi tekrar kontrol et
+    userMoney = await getBalance(userId);
     if (userMoney < price) {
       let emoji = chooseEmoji(userMoney);
       return await message.channel.send(
@@ -56,10 +66,9 @@ exports.execute = async (client, message, args) => {
       );
     }
 
-    userMoney -= price;
-    await client.db.set(moneyKey, userMoney);
-    oxyMoney += price;
-    await client.db.set(oxyKey, oxyMoney);
+    // PARA EKSİLT: eco API kullan
+    await client.eco.removeMoney(userId, price);
+    if (oxyId) await client.eco.addMoney(oxyId, price);
 
     let newHouse = {
       id: Date.now() + Math.floor(Math.random() * 1000),
@@ -77,12 +86,15 @@ exports.execute = async (client, message, args) => {
     houses.push(newHouse);
     await client.db.set(housesKey, houses);
 
+    // Kalan bakiye gösterimi için tekrar çek
+    const newUserMoney = await getBalance(userId);
     let payEmoji = chooseEmoji(price);
     return await message.channel.send(
-      `${emojis.bot.succes} | Ev başarıyla alındı, tebrikler~ 🎉\nFiyat: **${price.toLocaleString()}** ${payEmoji} • Kalan bakiye: **${userMoney.toLocaleString()}** ${chooseEmoji(userMoney)} • Ev ID: **${newHouse.id}**`
+      `${emojis.bot.succes} | Ev başarıyla alındı, tebrikler~ 🎉\nFiyat: **${price.toLocaleString()}** ${payEmoji} • Kalan bakiye: **${newUserMoney.toLocaleString()}** ${chooseEmoji(newUserMoney)} • Ev ID: **${newHouse.id}**`
     );
   }
 
+  // Diğer işlemler için ID parse
   let houseId;
   const rawId = args[1];
 
@@ -187,8 +199,10 @@ exports.execute = async (client, message, args) => {
     house.lastRentCollection = now;
     houses[houseIndex] = house;
     await client.db.set(housesKey, houses);
-    userMoney += income;
-    await client.db.set(moneyKey, userMoney);
+
+    // PARA EKLE: eco kullan
+    await client.eco.addMoney(userId, income);
+
     let incomeEmj = chooseEmoji(income);
     return await message.channel.send(
       `${emojis.bot.succes} | **${income.toLocaleString()}** ${incomeEmj} kira toplandı (${daysPassed} gün) — Harikasın~`
@@ -213,8 +227,10 @@ exports.execute = async (client, message, args) => {
       );
     }
     let salePrice = house.saleOffer;
-    userMoney += salePrice;
-    await client.db.set(moneyKey, userMoney);
+
+    // PARA EKLE: eco kullan
+    await client.eco.addMoney(userId, salePrice);
+
     houses.splice(houseIndex, 1);
     await client.db.set(housesKey, houses);
     let emoji = chooseEmoji(salePrice);
