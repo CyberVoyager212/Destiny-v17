@@ -5,7 +5,7 @@ setlocal
 set "ROOT=%~dp0"
 if "%ROOT:~-1%"=="\" set "ROOT=%ROOT:~0,-1%"
 set "SRC=%ROOT%\src"
-set "NODE_VER=18.20.8"
+set "NODE_VER=20.18.1"
 
 :: nvm varsa uygun node sürümünü kullan / yükle
 where nvm >nul 2>&1
