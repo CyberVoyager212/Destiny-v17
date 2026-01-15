@@ -2,7 +2,7 @@
 
 
 # Discord Botu - Kurulum ve Bilgilendirme
-
+ 
 Merhaba arkadaşlar! 👋
 
 Aşağıda sadece **kurulum rehberi** ve önemli notlar mevcut.
