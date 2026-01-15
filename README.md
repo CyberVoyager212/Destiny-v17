@@ -24,6 +24,10 @@ Aşağıda sadece **kurulum rehberi** ve önemli notlar mevcut.
    Kurulum için bu video rehberini kullanabilirsiniz:
    [YouTube Rehberi](https://www.youtube.com/watch?v=GWqZSisuq0g)
 
+4. **Python**
+   Bilgisayarınızda **Python yüklü olmalı** ve kurulum sırasında **“Add Python to PATH”** seçeneği işaretlenmelidir.
+   (Python 3.x önerilir)
+
 ---
 
 ### Bot Kurulumu
