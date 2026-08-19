@@ -47,10 +47,6 @@ Aşağıda sadece **kurulum rehberi** ve önemli notlar mevcut.
    * Sunucu ismini ve ayarlarını optimize eder.
 9. Kurulum tamamlandıktan sonra `başlat.bat` dosyasını çalıştırabilirsiniz.
 
-**Kurulum Videosu:**
-
-* Botun kurulum videosu olarak bu YouTube bağlantısını ekledim:
-* 
 
 ### Önemli Notlar
 
