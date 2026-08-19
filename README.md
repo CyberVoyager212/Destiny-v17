@@ -49,7 +49,8 @@ Aşağıda sadece **kurulum rehberi** ve önemli notlar mevcut.
 
 **Kurulum Videosu:**
 
-* Botun kurulum videosu olarak bu YouTube bağlantısını ekledim: [https://www.youtube.com/watch?v=40bKGuytu\_c](https://www.youtube.com/watch?v=40bKGuytu_c)
+* Botun kurulum videosu olarak bu YouTube bağlantısını ekledim:
+* 
 
 ### Önemli Notlar
 
